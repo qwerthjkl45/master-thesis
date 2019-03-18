@@ -1,1383 +1,459 @@
-step 0, iphone | discriminator accuracy | train: 0.008, test: 0 
-generator losses | train: 27.11, test: 0 | content: 0, color: 0, texture: 0, tv: 0 | psnr: 0, ssim: 0
+step 0, iphone | discriminator accuracy | train: 0.003667, test: 0 
+generator losses | train: 8.966, test: 0 | content: 0, color: 0, texture: 0, tv: 0 | psnr: 0, ssim: 0
 
-step 100, iphone | discriminator accuracy | train: 0.827, test: 0 
-generator losses | train: 2362, test: 0 | content: 0, color: 0, texture: 0, tv: 0 | psnr: 0, ssim: 0
+step 1200, iphone | discriminator accuracy | train: 0.5263, test: 0 
+generator losses | train: 9.107, test: 0 | content: 0, color: 0, texture: 0, tv: 0 | psnr: 0, ssim: 0
 
-step 200, iphone | discriminator accuracy | train: 0.7447, test: 0 
-generator losses | train: 1680, test: 0 | content: 0, color: 0, texture: 0, tv: 0 | psnr: 0, ssim: 0
+step 100, iphone | discriminator accuracy | train: 0.7653, test: 0 
+generator losses | train: nan, test: 0 | content: 0, color: 0, texture: 0, tv: 0 | psnr: 0, ssim: 0
 
-step 300, iphone | discriminator accuracy | train: 0.675, test: 0 
-generator losses | train: 1106, test: 0 | content: 0, color: 0, texture: 0, tv: 0 | psnr: 0, ssim: 0
+step 200, iphone | discriminator accuracy | train: 0.4983, test: 0 
+generator losses | train: nan, test: 0 | content: 0, color: 0, texture: 0, tv: 0 | psnr: 0, ssim: 0
 
-step 400, iphone | discriminator accuracy | train: 0.6883, test: 0 
-generator losses | train: 1044, test: 0 | content: 0, color: 0, texture: 0, tv: 0 | psnr: 0, ssim: 0
+step 1300, iphone | discriminator accuracy | train: 0.5117, test: 0 
+generator losses | train: -7.152, test: 0 | content: 0, color: 0, texture: 0, tv: 0 | psnr: 0, ssim: 0
 
-step 500, iphone | discriminator accuracy | train: 0.6033, test: 0 
-generator losses | train: 924.3, test: 0 | content: 0, color: 0, texture: 0, tv: 0 | psnr: 0, ssim: 0
+step 1400, iphone | discriminator accuracy | train: 0.5677, test: 0 
+generator losses | train: 23.06, test: 0 | content: 0, color: 0, texture: 0, tv: 0 | psnr: 0, ssim: 0
 
-step 600, iphone | discriminator accuracy | train: 0.571, test: 0 
-generator losses | train: 857.4, test: 0 | content: 0, color: 0, texture: 0, tv: 0 | psnr: 0, ssim: 0
+step 1500, iphone | discriminator accuracy | train: 0.5613, test: 0 
+generator losses | train: 44.49, test: 0 | content: 0, color: 0, texture: 0, tv: 0 | psnr: 0, ssim: 0
 
-step 700, iphone | discriminator accuracy | train: 0.5783, test: 0 
-generator losses | train: 800.2, test: 0 | content: 0, color: 0, texture: 0, tv: 0 | psnr: 0, ssim: 0
+step 1600, iphone | discriminator accuracy | train: 0.5133, test: 0 
+generator losses | train: 6.364, test: 0 | content: 0, color: 0, texture: 0, tv: 0 | psnr: 0, ssim: 0
 
-step 800, iphone | discriminator accuracy | train: 0.5537, test: 0 
-generator losses | train: 804.2, test: 0 | content: 0, color: 0, texture: 0, tv: 0 | psnr: 0, ssim: 0
-
-step 900, iphone | discriminator accuracy | train: 0.535, test: 0 
-generator losses | train: 776.9, test: 0 | content: 0, color: 0, texture: 0, tv: 0 | psnr: 0, ssim: 0
-
-step 1000, iphone | discriminator accuracy | train: 0.592, test: 0 
-generator losses | train: 741.7, test: 0 | content: 0, color: 0, texture: 0, tv: 0 | psnr: 0, ssim: 0
-
-step 1100, iphone | discriminator accuracy | train: 0.604, test: 0 
-generator losses | train: 789.4, test: 0 | content: 0, color: 0, texture: 0, tv: 0 | psnr: 0, ssim: 0
-
-step 1200, iphone | discriminator accuracy | train: 0.5403, test: 0 
-generator losses | train: 719.9, test: 0 | content: 0, color: 0, texture: 0, tv: 0 | psnr: 0, ssim: 0
-
-step 1300, iphone | discriminator accuracy | train: 0.556, test: 0 
-generator losses | train: 694.7, test: 0 | content: 0, color: 0, texture: 0, tv: 0 | psnr: 0, ssim: 0
-
-step 1400, iphone | discriminator accuracy | train: 0.559, test: 0 
-generator losses | train: 760.5, test: 0 | content: 0, color: 0, texture: 0, tv: 0 | psnr: 0, ssim: 0
-
-step 1500, iphone | discriminator accuracy | train: 0.5833, test: 0 
-generator losses | train: 732.4, test: 0 | content: 0, color: 0, texture: 0, tv: 0 | psnr: 0, ssim: 0
-
-step 1600, iphone | discriminator accuracy | train: 0.575, test: 0 
-generator losses | train: 729.8, test: 0 | content: 0, color: 0, texture: 0, tv: 0 | psnr: 0, ssim: 0
-
-step 1700, iphone | discriminator accuracy | train: 0.5893, test: 0 
-generator losses | train: 744.4, test: 0 | content: 0, color: 0, texture: 0, tv: 0 | psnr: 0, ssim: 0
-
-step 1800, iphone | discriminator accuracy | train: 0.592, test: 0 
-generator losses | train: 737.1, test: 0 | content: 0, color: 0, texture: 0, tv: 0 | psnr: 0, ssim: 0
-
-step 1900, iphone | discriminator accuracy | train: 0.5687, test: 0 
-generator losses | train: 675.6, test: 0 | content: 0, color: 0, texture: 0, tv: 0 | psnr: 0, ssim: 0
-
-step 2000, iphone | discriminator accuracy | train: 0.556, test: 0 
-generator losses | train: 719.2, test: 0 | content: 0, color: 0, texture: 0, tv: 0 | psnr: 0, ssim: 0
-
-step 2100, iphone | discriminator accuracy | train: 0.559, test: 0 
-generator losses | train: 678.2, test: 0 | content: 0, color: 0, texture: 0, tv: 0 | psnr: 0, ssim: 0
-
-step 2200, iphone | discriminator accuracy | train: 0.5833, test: 0 
-generator losses | train: 700.5, test: 0 | content: 0, color: 0, texture: 0, tv: 0 | psnr: 0, ssim: 0
-
-step 2300, iphone | discriminator accuracy | train: 0.5703, test: 0 
-generator losses | train: 697.3, test: 0 | content: 0, color: 0, texture: 0, tv: 0 | psnr: 0, ssim: 0
-
-step 2400, iphone | discriminator accuracy | train: 0.5317, test: 0 
-generator losses | train: 676.2, test: 0 | content: 0, color: 0, texture: 0, tv: 0 | psnr: 0, ssim: 0
-
-step 2500, iphone | discriminator accuracy | train: 0.5317, test: 0 
-generator losses | train: 669.4, test: 0 | content: 0, color: 0, texture: 0, tv: 0 | psnr: 0, ssim: 0
-
-step 2600, iphone | discriminator accuracy | train: 0.53, test: 0 
-generator losses | train: 676.3, test: 0 | content: 0, color: 0, texture: 0, tv: 0 | psnr: 0, ssim: 0
-
-step 2700, iphone | discriminator accuracy | train: 0.528, test: 0 
-generator losses | train: 671.1, test: 0 | content: 0, color: 0, texture: 0, tv: 0 | psnr: 0, ssim: 0
-
-step 2800, iphone | discriminator accuracy | train: 0.5363, test: 0 
-generator losses | train: 676.4, test: 0 | content: 0, color: 0, texture: 0, tv: 0 | psnr: 0, ssim: 0
-
-step 2900, iphone | discriminator accuracy | train: 0.53, test: 0 
-generator losses | train: 639.2, test: 0 | content: 0, color: 0, texture: 0, tv: 0 | psnr: 0, ssim: 0
-
-step 3000, iphone | discriminator accuracy | train: 0.5333, test: 0 
-generator losses | train: 633.4, test: 0 | content: 0, color: 0, texture: 0, tv: 0 | psnr: 0, ssim: 0
-
-step 3100, iphone | discriminator accuracy | train: 0.5463, test: 0 
-generator losses | train: 636.7, test: 0 | content: 0, color: 0, texture: 0, tv: 0 | psnr: 0, ssim: 0
-
-step 3200, iphone | discriminator accuracy | train: 0.5327, test: 0 
-generator losses | train: 659.3, test: 0 | content: 0, color: 0, texture: 0, tv: 0 | psnr: 0, ssim: 0
-
-step 3300, iphone | discriminator accuracy | train: 0.5713, test: 0 
-generator losses | train: 614.1, test: 0 | content: 0, color: 0, texture: 0, tv: 0 | psnr: 0, ssim: 0
-
-step 3400, iphone | discriminator accuracy | train: 0.586, test: 0 
-generator losses | train: 638.6, test: 0 | content: 0, color: 0, texture: 0, tv: 0 | psnr: 0, ssim: 0
-
-step 3500, iphone | discriminator accuracy | train: 0.5443, test: 0 
-generator losses | train: 614.6, test: 0 | content: 0, color: 0, texture: 0, tv: 0 | psnr: 0, ssim: 0
-
-step 3600, iphone | discriminator accuracy | train: 0.584, test: 0 
-generator losses | train: 656, test: 0 | content: 0, color: 0, texture: 0, tv: 0 | psnr: 0, ssim: 0
-
-step 3700, iphone | discriminator accuracy | train: 0.5493, test: 0 
-generator losses | train: 619.5, test: 0 | content: 0, color: 0, texture: 0, tv: 0 | psnr: 0, ssim: 0
-
-step 3800, iphone | discriminator accuracy | train: 0.5237, test: 0 
-generator losses | train: 625.8, test: 0 | content: 0, color: 0, texture: 0, tv: 0 | psnr: 0, ssim: 0
-
-step 3900, iphone | discriminator accuracy | train: 0.5603, test: 0 
-generator losses | train: 629.4, test: 0 | content: 0, color: 0, texture: 0, tv: 0 | psnr: 0, ssim: 0
-
-step 4000, iphone | discriminator accuracy | train: 0.535, test: 0 
-generator losses | train: 603.9, test: 0 | content: 0, color: 0, texture: 0, tv: 0 | psnr: 0, ssim: 0
-
-step 4100, iphone | discriminator accuracy | train: 0.5567, test: 0 
-generator losses | train: 609.9, test: 0 | content: 0, color: 0, texture: 0, tv: 0 | psnr: 0, ssim: 0
-
-step 4200, iphone | discriminator accuracy | train: 0.5973, test: 0 
-generator losses | train: 650.1, test: 0 | content: 0, color: 0, texture: 0, tv: 0 | psnr: 0, ssim: 0
-
-step 4300, iphone | discriminator accuracy | train: 0.5163, test: 0 
-generator losses | train: 600.3, test: 0 | content: 0, color: 0, texture: 0, tv: 0 | psnr: 0, ssim: 0
-
-step 4400, iphone | discriminator accuracy | train: 0.5513, test: 0 
-generator losses | train: 601.1, test: 0 | content: 0, color: 0, texture: 0, tv: 0 | psnr: 0, ssim: 0
-
-step 4500, iphone | discriminator accuracy | train: 0.5667, test: 0 
-generator losses | train: 629.3, test: 0 | content: 0, color: 0, texture: 0, tv: 0 | psnr: 0, ssim: 0
-
-step 4600, iphone | discriminator accuracy | train: 0.5723, test: 0 
-generator losses | train: 638.4, test: 0 | content: 0, color: 0, texture: 0, tv: 0 | psnr: 0, ssim: 0
-
-step 4700, iphone | discriminator accuracy | train: 0.5547, test: 0 
-generator losses | train: 621.3, test: 0 | content: 0, color: 0, texture: 0, tv: 0 | psnr: 0, ssim: 0
-
-step 4800, iphone | discriminator accuracy | train: 0.5547, test: 0 
-generator losses | train: 617.3, test: 0 | content: 0, color: 0, texture: 0, tv: 0 | psnr: 0, ssim: 0
-
-step 4900, iphone | discriminator accuracy | train: 0.589, test: 0 
-generator losses | train: 632.2, test: 0 | content: 0, color: 0, texture: 0, tv: 0 | psnr: 0, ssim: 0
-
-step 5000, iphone | discriminator accuracy | train: 0.569, test: 0 
-generator losses | train: 630.9, test: 0 | content: 0, color: 0, texture: 0, tv: 0 | psnr: 0, ssim: 0
-
-step 5100, iphone | discriminator accuracy | train: 0.5267, test: 0 
-generator losses | train: 594.2, test: 0 | content: 0, color: 0, texture: 0, tv: 0 | psnr: 0, ssim: 0
-
-step 5200, iphone | discriminator accuracy | train: 0.5373, test: 0 
-generator losses | train: 603, test: 0 | content: 0, color: 0, texture: 0, tv: 0 | psnr: 0, ssim: 0
-
-step 5300, iphone | discriminator accuracy | train: 0.5533, test: 0 
-generator losses | train: 610.3, test: 0 | content: 0, color: 0, texture: 0, tv: 0 | psnr: 0, ssim: 0
-
-step 0, iphone | discriminator accuracy | train: 0.27, test: 0 
-generator losses | train: 299.2, test: 0 | content: 0, color: 0, texture: 0, tv: 0 | psnr: 0, ssim: 0
-
-step 100, iphone | discriminator accuracy | train: 0.5447, test: 0 
-generator losses | train: 592.3, test: 0 | content: 0, color: 0, texture: 0, tv: 0 | psnr: 0, ssim: 0
-
-step 200, iphone | discriminator accuracy | train: 0.5607, test: 0 
-generator losses | train: 609.7, test: 0 | content: 0, color: 0, texture: 0, tv: 0 | psnr: 0, ssim: 0
-
-step 300, iphone | discriminator accuracy | train: 0.562, test: 0 
-generator losses | train: 589.8, test: 0 | content: 0, color: 0, texture: 0, tv: 0 | psnr: 0, ssim: 0
-
-step 400, iphone | discriminator accuracy | train: 0.5433, test: 0 
-generator losses | train: 579.2, test: 0 | content: 0, color: 0, texture: 0, tv: 0 | psnr: 0, ssim: 0
-
-step 500, iphone | discriminator accuracy | train: 0.5307, test: 0 
-generator losses | train: 613, test: 0 | content: 0, color: 0, texture: 0, tv: 0 | psnr: 0, ssim: 0
-
-step 600, iphone | discriminator accuracy | train: 0.5627, test: 0 
-generator losses | train: 634, test: 0 | content: 0, color: 0, texture: 0, tv: 0 | psnr: 0, ssim: 0
-
-step 700, iphone | discriminator accuracy | train: 0.5847, test: 0 
-generator losses | train: 632.7, test: 0 | content: 0, color: 0, texture: 0, tv: 0 | psnr: 0, ssim: 0
-
-step 800, iphone | discriminator accuracy | train: 0.599, test: 0 
-generator losses | train: 630.7, test: 0 | content: 0, color: 0, texture: 0, tv: 0 | psnr: 0, ssim: 0
-
-step 900, iphone | discriminator accuracy | train: 0.5407, test: 0 
-generator losses | train: 594.5, test: 0 | content: 0, color: 0, texture: 0, tv: 0 | psnr: 0, ssim: 0
-
-step 1000, iphone | discriminator accuracy | train: 0.545, test: 0 
-generator losses | train: 587.8, test: 0 | content: 0, color: 0, texture: 0, tv: 0 | psnr: 0, ssim: 0
-
-step 1100, iphone | discriminator accuracy | train: 0.5443, test: 0 
-generator losses | train: 556.7, test: 0 | content: 0, color: 0, texture: 0, tv: 0 | psnr: 0, ssim: 0
-
-step 1200, iphone | discriminator accuracy | train: 0.5443, test: 0 
-generator losses | train: 584.5, test: 0 | content: 0, color: 0, texture: 0, tv: 0 | psnr: 0, ssim: 0
-
-step 1300, iphone | discriminator accuracy | train: 0.5817, test: 0 
-generator losses | train: 580.4, test: 0 | content: 0, color: 0, texture: 0, tv: 0 | psnr: 0, ssim: 0
-
-step 1400, iphone | discriminator accuracy | train: 0.5503, test: 0 
-generator losses | train: 586.3, test: 0 | content: 0, color: 0, texture: 0, tv: 0 | psnr: 0, ssim: 0
-
-step 1500, iphone | discriminator accuracy | train: 0.531, test: 0 
-generator losses | train: 558.5, test: 0 | content: 0, color: 0, texture: 0, tv: 0 | psnr: 0, ssim: 0
-
-step 1600, iphone | discriminator accuracy | train: 0.5333, test: 0 
-generator losses | train: 547.7, test: 0 | content: 0, color: 0, texture: 0, tv: 0 | psnr: 0, ssim: 0
-
-step 1700, iphone | discriminator accuracy | train: 0.5127, test: 0 
-generator losses | train: 547.7, test: 0 | content: 0, color: 0, texture: 0, tv: 0 | psnr: 0, ssim: 0
-
-step 1800, iphone | discriminator accuracy | train: 0.5273, test: 0 
-generator losses | train: 542.9, test: 0 | content: 0, color: 0, texture: 0, tv: 0 | psnr: 0, ssim: 0
-
-step 1900, iphone | discriminator accuracy | train: 0.538, test: 0 
-generator losses | train: 547.5, test: 0 | content: 0, color: 0, texture: 0, tv: 0 | psnr: 0, ssim: 0
-
-step 2000, iphone | discriminator accuracy | train: 0.5657, test: 0 
-generator losses | train: 570, test: 0 | content: 0, color: 0, texture: 0, tv: 0 | psnr: 0, ssim: 0
-
-step 2100, iphone | discriminator accuracy | train: 0.5913, test: 0 
-generator losses | train: 577.4, test: 0 | content: 0, color: 0, texture: 0, tv: 0 | psnr: 0, ssim: 0
-
-step 2200, iphone | discriminator accuracy | train: 0.585, test: 0 
-generator losses | train: 605.6, test: 0 | content: 0, color: 0, texture: 0, tv: 0 | psnr: 0, ssim: 0
-
-step 2300, iphone | discriminator accuracy | train: 0.5393, test: 0 
-generator losses | train: 587.5, test: 0 | content: 0, color: 0, texture: 0, tv: 0 | psnr: 0, ssim: 0
-
-step 2400, iphone | discriminator accuracy | train: 0.536, test: 0 
-generator losses | train: 570.5, test: 0 | content: 0, color: 0, texture: 0, tv: 0 | psnr: 0, ssim: 0
-
-step 2500, iphone | discriminator accuracy | train: 0.5317, test: 0 
-generator losses | train: 567, test: 0 | content: 0, color: 0, texture: 0, tv: 0 | psnr: 0, ssim: 0
-
-step 2600, iphone | discriminator accuracy | train: 0.5527, test: 0 
-generator losses | train: 586.8, test: 0 | content: 0, color: 0, texture: 0, tv: 0 | psnr: 0, ssim: 0
-
-step 2700, iphone | discriminator accuracy | train: 0.5453, test: 0 
-generator losses | train: 603.1, test: 0 | content: 0, color: 0, texture: 0, tv: 0 | psnr: 0, ssim: 0
-
-step 2800, iphone | discriminator accuracy | train: 0.5123, test: 0 
-generator losses | train: 563.6, test: 0 | content: 0, color: 0, texture: 0, tv: 0 | psnr: 0, ssim: 0
-
-step 2900, iphone | discriminator accuracy | train: 0.535, test: 0 
-generator losses | train: 520.2, test: 0 | content: 0, color: 0, texture: 0, tv: 0 | psnr: 0, ssim: 0
-
-step 3000, iphone | discriminator accuracy | train: 0.5717, test: 0 
-generator losses | train: 569.9, test: 0 | content: 0, color: 0, texture: 0, tv: 0 | psnr: 0, ssim: 0
-
-step 3100, iphone | discriminator accuracy | train: 0.5613, test: 0 
-generator losses | train: 575.7, test: 0 | content: 0, color: 0, texture: 0, tv: 0 | psnr: 0, ssim: 0
-
-step 3200, iphone | discriminator accuracy | train: 0.5553, test: 0 
-generator losses | train: 580.3, test: 0 | content: 0, color: 0, texture: 0, tv: 0 | psnr: 0, ssim: 0
-
-step 3300, iphone | discriminator accuracy | train: 0.544, test: 0 
-generator losses | train: 554.8, test: 0 | content: 0, color: 0, texture: 0, tv: 0 | psnr: 0, ssim: 0
-
-step 3400, iphone | discriminator accuracy | train: 0.5367, test: 0 
-generator losses | train: 561.9, test: 0 | content: 0, color: 0, texture: 0, tv: 0 | psnr: 0, ssim: 0
-
-step 3500, iphone | discriminator accuracy | train: 0.5547, test: 0 
-generator losses | train: 567.1, test: 0 | content: 0, color: 0, texture: 0, tv: 0 | psnr: 0, ssim: 0
-
-step 3600, iphone | discriminator accuracy | train: 0.5387, test: 0 
-generator losses | train: 563.4, test: 0 | content: 0, color: 0, texture: 0, tv: 0 | psnr: 0, ssim: 0
-
-step 3700, iphone | discriminator accuracy | train: 0.5653, test: 0 
-generator losses | train: 567.6, test: 0 | content: 0, color: 0, texture: 0, tv: 0 | psnr: 0, ssim: 0
-
-step 3800, iphone | discriminator accuracy | train: 0.551, test: 0 
-generator losses | train: 551.8, test: 0 | content: 0, color: 0, texture: 0, tv: 0 | psnr: 0, ssim: 0
-
-step 3900, iphone | discriminator accuracy | train: 0.552, test: 0 
-generator losses | train: 557.5, test: 0 | content: 0, color: 0, texture: 0, tv: 0 | psnr: 0, ssim: 0
-
-step 4000, iphone | discriminator accuracy | train: 0.523, test: 0 
-generator losses | train: 547, test: 0 | content: 0, color: 0, texture: 0, tv: 0 | psnr: 0, ssim: 0
-
-step 4100, iphone | discriminator accuracy | train: 0.532, test: 0 
-generator losses | train: 522, test: 0 | content: 0, color: 0, texture: 0, tv: 0 | psnr: 0, ssim: 0
-
-step 4200, iphone | discriminator accuracy | train: 0.5423, test: 0 
-generator losses | train: 563.4, test: 0 | content: 0, color: 0, texture: 0, tv: 0 | psnr: 0, ssim: 0
-
-step 4300, iphone | discriminator accuracy | train: 0.5703, test: 0 
-generator losses | train: 574.6, test: 0 | content: 0, color: 0, texture: 0, tv: 0 | psnr: 0, ssim: 0
-
-step 4400, iphone | discriminator accuracy | train: 0.5583, test: 0 
-generator losses | train: 565.1, test: 0 | content: 0, color: 0, texture: 0, tv: 0 | psnr: 0, ssim: 0
-
-step 4500, iphone | discriminator accuracy | train: 0.5643, test: 0 
-generator losses | train: 543.2, test: 0 | content: 0, color: 0, texture: 0, tv: 0 | psnr: 0, ssim: 0
-
-step 4600, iphone | discriminator accuracy | train: 0.5627, test: 0 
-generator losses | train: 559.9, test: 0 | content: 0, color: 0, texture: 0, tv: 0 | psnr: 0, ssim: 0
-
-step 4700, iphone | discriminator accuracy | train: 0.5473, test: 0 
-generator losses | train: 553.4, test: 0 | content: 0, color: 0, texture: 0, tv: 0 | psnr: 0, ssim: 0
-
-step 4800, iphone | discriminator accuracy | train: 0.5693, test: 0 
-generator losses | train: 539.3, test: 0 | content: 0, color: 0, texture: 0, tv: 0 | psnr: 0, ssim: 0
-
-step 4900, iphone | discriminator accuracy | train: 0.55, test: 0 
-generator losses | train: 526.3, test: 0 | content: 0, color: 0, texture: 0, tv: 0 | psnr: 0, ssim: 0
-
-step 5000, iphone | discriminator accuracy | train: 0.559, test: 0 
-generator losses | train: 530.9, test: 0 | content: 0, color: 0, texture: 0, tv: 0 | psnr: 0, ssim: 0
-
-step 5100, iphone | discriminator accuracy | train: 0.5513, test: 0 
-generator losses | train: 551.5, test: 0 | content: 0, color: 0, texture: 0, tv: 0 | psnr: 0, ssim: 0
-
-step 5200, iphone | discriminator accuracy | train: 0.6023, test: 0 
-generator losses | train: 595.4, test: 0 | content: 0, color: 0, texture: 0, tv: 0 | psnr: 0, ssim: 0
-
-step 5300, iphone | discriminator accuracy | train: 0.5413, test: 0 
-generator losses | train: 519.5, test: 0 | content: 0, color: 0, texture: 0, tv: 0 | psnr: 0, ssim: 0
-
-step 0, iphone | discriminator accuracy | train: 0.2643, test: 0 
-generator losses | train: 272.4, test: 0 | content: 0, color: 0, texture: 0, tv: 0 | psnr: 0, ssim: 0
-
-step 100, iphone | discriminator accuracy | train: 0.538, test: 0 
-generator losses | train: 542.1, test: 0 | content: 0, color: 0, texture: 0, tv: 0 | psnr: 0, ssim: 0
-
-step 200, iphone | discriminator accuracy | train: 0.5577, test: 0 
-generator losses | train: 551.1, test: 0 | content: 0, color: 0, texture: 0, tv: 0 | psnr: 0, ssim: 0
-
-step 300, iphone | discriminator accuracy | train: 0.535, test: 0 
-generator losses | train: 553.4, test: 0 | content: 0, color: 0, texture: 0, tv: 0 | psnr: 0, ssim: 0
-
-step 400, iphone | discriminator accuracy | train: 0.575, test: 0 
-generator losses | train: 558.8, test: 0 | content: 0, color: 0, texture: 0, tv: 0 | psnr: 0, ssim: 0
-
-step 500, iphone | discriminator accuracy | train: 0.55, test: 0 
-generator losses | train: 546.1, test: 0 | content: 0, color: 0, texture: 0, tv: 0 | psnr: 0, ssim: 0
-
-step 600, iphone | discriminator accuracy | train: 0.543, test: 0 
-generator losses | train: 530.5, test: 0 | content: 0, color: 0, texture: 0, tv: 0 | psnr: 0, ssim: 0
-
-step 700, iphone | discriminator accuracy | train: 0.562, test: 0 
-generator losses | train: 520.4, test: 0 | content: 0, color: 0, texture: 0, tv: 0 | psnr: 0, ssim: 0
-
-step 800, iphone | discriminator accuracy | train: 0.5883, test: 0 
-generator losses | train: 561.8, test: 0 | content: 0, color: 0, texture: 0, tv: 0 | psnr: 0, ssim: 0
-
-step 900, iphone | discriminator accuracy | train: 0.5573, test: 0 
-generator losses | train: 557.1, test: 0 | content: 0, color: 0, texture: 0, tv: 0 | psnr: 0, ssim: 0
-
-step 1000, iphone | discriminator accuracy | train: 0.545, test: 0 
-generator losses | train: 530.3, test: 0 | content: 0, color: 0, texture: 0, tv: 0 | psnr: 0, ssim: 0
-
-step 1100, iphone | discriminator accuracy | train: 0.5307, test: 0 
-generator losses | train: 522.7, test: 0 | content: 0, color: 0, texture: 0, tv: 0 | psnr: 0, ssim: 0
-
-step 1200, iphone | discriminator accuracy | train: 0.535, test: 0 
-generator losses | train: 560.9, test: 0 | content: 0, color: 0, texture: 0, tv: 0 | psnr: 0, ssim: 0
-
-step 1300, iphone | discriminator accuracy | train: 0.5643, test: 0 
-generator losses | train: 525, test: 0 | content: 0, color: 0, texture: 0, tv: 0 | psnr: 0, ssim: 0
-
-step 1400, iphone | discriminator accuracy | train: 0.5733, test: 0 
-generator losses | train: 531.8, test: 0 | content: 0, color: 0, texture: 0, tv: 0 | psnr: 0, ssim: 0
-
-step 1500, iphone | discriminator accuracy | train: 0.5367, test: 0 
-generator losses | train: 544.1, test: 0 | content: 0, color: 0, texture: 0, tv: 0 | psnr: 0, ssim: 0
-
-step 1600, iphone | discriminator accuracy | train: 0.5647, test: 0 
-generator losses | train: 535.9, test: 0 | content: 0, color: 0, texture: 0, tv: 0 | psnr: 0, ssim: 0
-
-step 1700, iphone | discriminator accuracy | train: 0.5527, test: 0 
-generator losses | train: 543.1, test: 0 | content: 0, color: 0, texture: 0, tv: 0 | psnr: 0, ssim: 0
-
-step 1800, iphone | discriminator accuracy | train: 0.5607, test: 0 
-generator losses | train: 554.9, test: 0 | content: 0, color: 0, texture: 0, tv: 0 | psnr: 0, ssim: 0
-
-step 1900, iphone | discriminator accuracy | train: 0.5373, test: 0 
-generator losses | train: 533.5, test: 0 | content: 0, color: 0, texture: 0, tv: 0 | psnr: 0, ssim: 0
-
-step 2000, iphone | discriminator accuracy | train: 0.5643, test: 0 
-generator losses | train: 551.9, test: 0 | content: 0, color: 0, texture: 0, tv: 0 | psnr: 0, ssim: 0
-
-step 2100, iphone | discriminator accuracy | train: 0.5693, test: 0 
-generator losses | train: 522.7, test: 0 | content: 0, color: 0, texture: 0, tv: 0 | psnr: 0, ssim: 0
-
-step 2200, iphone | discriminator accuracy | train: 0.5553, test: 0 
-generator losses | train: 500.5, test: 0 | content: 0, color: 0, texture: 0, tv: 0 | psnr: 0, ssim: 0
-
-step 2300, iphone | discriminator accuracy | train: 0.565, test: 0 
-generator losses | train: 521.9, test: 0 | content: 0, color: 0, texture: 0, tv: 0 | psnr: 0, ssim: 0
-
-step 2400, iphone | discriminator accuracy | train: 0.5723, test: 0 
-generator losses | train: 532.5, test: 0 | content: 0, color: 0, texture: 0, tv: 0 | psnr: 0, ssim: 0
-
-step 2500, iphone | discriminator accuracy | train: 0.5533, test: 0 
-generator losses | train: 542.7, test: 0 | content: 0, color: 0, texture: 0, tv: 0 | psnr: 0, ssim: 0
-
-step 2600, iphone | discriminator accuracy | train: 0.5487, test: 0 
-generator losses | train: 536.3, test: 0 | content: 0, color: 0, texture: 0, tv: 0 | psnr: 0, ssim: 0
-
-step 2700, iphone | discriminator accuracy | train: 0.5463, test: 0 
-generator losses | train: 560.4, test: 0 | content: 0, color: 0, texture: 0, tv: 0 | psnr: 0, ssim: 0
-
-step 2800, iphone | discriminator accuracy | train: 0.5557, test: 0 
-generator losses | train: 526.5, test: 0 | content: 0, color: 0, texture: 0, tv: 0 | psnr: 0, ssim: 0
-
-step 2900, iphone | discriminator accuracy | train: 0.5527, test: 0 
-generator losses | train: 546.8, test: 0 | content: 0, color: 0, texture: 0, tv: 0 | psnr: 0, ssim: 0
-
-step 3000, iphone | discriminator accuracy | train: 0.543, test: 0 
-generator losses | train: 507.3, test: 0 | content: 0, color: 0, texture: 0, tv: 0 | psnr: 0, ssim: 0
-
-step 3100, iphone | discriminator accuracy | train: 0.5637, test: 0 
-generator losses | train: 565.3, test: 0 | content: 0, color: 0, texture: 0, tv: 0 | psnr: 0, ssim: 0
-
-step 3200, iphone | discriminator accuracy | train: 0.552, test: 0 
-generator losses | train: 530.7, test: 0 | content: 0, color: 0, texture: 0, tv: 0 | psnr: 0, ssim: 0
-
-step 3300, iphone | discriminator accuracy | train: 0.56, test: 0 
-generator losses | train: 545.2, test: 0 | content: 0, color: 0, texture: 0, tv: 0 | psnr: 0, ssim: 0
-
-step 3400, iphone | discriminator accuracy | train: 0.5477, test: 0 
-generator losses | train: 513, test: 0 | content: 0, color: 0, texture: 0, tv: 0 | psnr: 0, ssim: 0
-
-step 3500, iphone | discriminator accuracy | train: 0.5457, test: 0 
-generator losses | train: 533.9, test: 0 | content: 0, color: 0, texture: 0, tv: 0 | psnr: 0, ssim: 0
-
-step 3600, iphone | discriminator accuracy | train: 0.5363, test: 0 
-generator losses | train: 495.8, test: 0 | content: 0, color: 0, texture: 0, tv: 0 | psnr: 0, ssim: 0
-
-step 3700, iphone | discriminator accuracy | train: 0.518, test: 0 
-generator losses | train: 494.2, test: 0 | content: 0, color: 0, texture: 0, tv: 0 | psnr: 0, ssim: 0
-
-step 3800, iphone | discriminator accuracy | train: 0.5427, test: 0 
-generator losses | train: 507.7, test: 0 | content: 0, color: 0, texture: 0, tv: 0 | psnr: 0, ssim: 0
-
-step 3900, iphone | discriminator accuracy | train: 0.5533, test: 0 
-generator losses | train: 542.2, test: 0 | content: 0, color: 0, texture: 0, tv: 0 | psnr: 0, ssim: 0
-
-step 4000, iphone | discriminator accuracy | train: 0.5413, test: 0 
-generator losses | train: 513.1, test: 0 | content: 0, color: 0, texture: 0, tv: 0 | psnr: 0, ssim: 0
-
-step 4100, iphone | discriminator accuracy | train: 0.5343, test: 0 
-generator losses | train: 499.8, test: 0 | content: 0, color: 0, texture: 0, tv: 0 | psnr: 0, ssim: 0
-
-step 4200, iphone | discriminator accuracy | train: 0.5333, test: 0 
-generator losses | train: 530.1, test: 0 | content: 0, color: 0, texture: 0, tv: 0 | psnr: 0, ssim: 0
-
-step 4300, iphone | discriminator accuracy | train: 0.5483, test: 0 
-generator losses | train: 505.4, test: 0 | content: 0, color: 0, texture: 0, tv: 0 | psnr: 0, ssim: 0
-
-step 4400, iphone | discriminator accuracy | train: 0.5493, test: 0 
-generator losses | train: 487.5, test: 0 | content: 0, color: 0, texture: 0, tv: 0 | psnr: 0, ssim: 0
-
-step 4500, iphone | discriminator accuracy | train: 0.5533, test: 0 
-generator losses | train: 513.6, test: 0 | content: 0, color: 0, texture: 0, tv: 0 | psnr: 0, ssim: 0
-
-step 4600, iphone | discriminator accuracy | train: 0.5413, test: 0 
-generator losses | train: 519.2, test: 0 | content: 0, color: 0, texture: 0, tv: 0 | psnr: 0, ssim: 0
-
-step 4700, iphone | discriminator accuracy | train: 0.5453, test: 0 
-generator losses | train: 522.3, test: 0 | content: 0, color: 0, texture: 0, tv: 0 | psnr: 0, ssim: 0
-
-step 4800, iphone | discriminator accuracy | train: 0.541, test: 0 
-generator losses | train: 517.2, test: 0 | content: 0, color: 0, texture: 0, tv: 0 | psnr: 0, ssim: 0
-
-step 4900, iphone | discriminator accuracy | train: 0.5243, test: 0 
-generator losses | train: 523.6, test: 0 | content: 0, color: 0, texture: 0, tv: 0 | psnr: 0, ssim: 0
-
-step 5000, iphone | discriminator accuracy | train: 0.5437, test: 0 
-generator losses | train: 532.8, test: 0 | content: 0, color: 0, texture: 0, tv: 0 | psnr: 0, ssim: 0
-
-step 5100, iphone | discriminator accuracy | train: 0.541, test: 0 
-generator losses | train: 517.9, test: 0 | content: 0, color: 0, texture: 0, tv: 0 | psnr: 0, ssim: 0
-
-step 5200, iphone | discriminator accuracy | train: 0.5343, test: 0 
-generator losses | train: 505.5, test: 0 | content: 0, color: 0, texture: 0, tv: 0 | psnr: 0, ssim: 0
-
-step 5300, iphone | discriminator accuracy | train: 0.5283, test: 0 
-generator losses | train: 504, test: 0 | content: 0, color: 0, texture: 0, tv: 0 | psnr: 0, ssim: 0
-
-step 0, iphone | discriminator accuracy | train: 0.267, test: 0 
-generator losses | train: 253.1, test: 0 | content: 0, color: 0, texture: 0, tv: 0 | psnr: 0, ssim: 0
-
-step 100, iphone | discriminator accuracy | train: 0.5217, test: 0 
-generator losses | train: 496.9, test: 0 | content: 0, color: 0, texture: 0, tv: 0 | psnr: 0, ssim: 0
-
-step 200, iphone | discriminator accuracy | train: 0.5297, test: 0 
-generator losses | train: 497.4, test: 0 | content: 0, color: 0, texture: 0, tv: 0 | psnr: 0, ssim: 0
-
-step 300, iphone | discriminator accuracy | train: 0.5397, test: 0 
-generator losses | train: 508.5, test: 0 | content: 0, color: 0, texture: 0, tv: 0 | psnr: 0, ssim: 0
-
-step 400, iphone | discriminator accuracy | train: 0.5077, test: 0 
-generator losses | train: 511.9, test: 0 | content: 0, color: 0, texture: 0, tv: 0 | psnr: 0, ssim: 0
-
-step 500, iphone | discriminator accuracy | train: 0.5327, test: 0 
-generator losses | train: 516.7, test: 0 | content: 0, color: 0, texture: 0, tv: 0 | psnr: 0, ssim: 0
-
-step 600, iphone | discriminator accuracy | train: 0.5223, test: 0 
-generator losses | train: 496.7, test: 0 | content: 0, color: 0, texture: 0, tv: 0 | psnr: 0, ssim: 0
-
-step 700, iphone | discriminator accuracy | train: 0.5513, test: 0 
-generator losses | train: 527.5, test: 0 | content: 0, color: 0, texture: 0, tv: 0 | psnr: 0, ssim: 0
-
-step 800, iphone | discriminator accuracy | train: 0.5333, test: 0 
-generator losses | train: 524.3, test: 0 | content: 0, color: 0, texture: 0, tv: 0 | psnr: 0, ssim: 0
-
-step 900, iphone | discriminator accuracy | train: 0.52, test: 0 
-generator losses | train: 467.7, test: 0 | content: 0, color: 0, texture: 0, tv: 0 | psnr: 0, ssim: 0
-
-step 1000, iphone | discriminator accuracy | train: 0.526, test: 0 
-generator losses | train: 507, test: 0 | content: 0, color: 0, texture: 0, tv: 0 | psnr: 0, ssim: 0
-
-step 1100, iphone | discriminator accuracy | train: 0.5213, test: 0 
-generator losses | train: 518.1, test: 0 | content: 0, color: 0, texture: 0, tv: 0 | psnr: 0, ssim: 0
-
-step 1200, iphone | discriminator accuracy | train: 0.53, test: 0 
-generator losses | train: 500.1, test: 0 | content: 0, color: 0, texture: 0, tv: 0 | psnr: 0, ssim: 0
-
-step 1300, iphone | discriminator accuracy | train: 0.5347, test: 0 
-generator losses | train: 519.6, test: 0 | content: 0, color: 0, texture: 0, tv: 0 | psnr: 0, ssim: 0
-
-step 1400, iphone | discriminator accuracy | train: 0.5447, test: 0 
-generator losses | train: 534.7, test: 0 | content: 0, color: 0, texture: 0, tv: 0 | psnr: 0, ssim: 0
-
-step 1500, iphone | discriminator accuracy | train: 0.5437, test: 0 
-generator losses | train: 487.7, test: 0 | content: 0, color: 0, texture: 0, tv: 0 | psnr: 0, ssim: 0
-
-step 1600, iphone | discriminator accuracy | train: 0.5323, test: 0 
-generator losses | train: 484.9, test: 0 | content: 0, color: 0, texture: 0, tv: 0 | psnr: 0, ssim: 0
-
-step 1700, iphone | discriminator accuracy | train: 0.521, test: 0 
-generator losses | train: 479.5, test: 0 | content: 0, color: 0, texture: 0, tv: 0 | psnr: 0, ssim: 0
-
-step 1800, iphone | discriminator accuracy | train: 0.518, test: 0 
-generator losses | train: 509.9, test: 0 | content: 0, color: 0, texture: 0, tv: 0 | psnr: 0, ssim: 0
-
-step 1900, iphone | discriminator accuracy | train: 0.5277, test: 0 
-generator losses | train: 506.6, test: 0 | content: 0, color: 0, texture: 0, tv: 0 | psnr: 0, ssim: 0
-
-step 2000, iphone | discriminator accuracy | train: 0.5237, test: 0 
-generator losses | train: 479.3, test: 0 | content: 0, color: 0, texture: 0, tv: 0 | psnr: 0, ssim: 0
-
-step 2100, iphone | discriminator accuracy | train: 0.5187, test: 0 
-generator losses | train: 489.5, test: 0 | content: 0, color: 0, texture: 0, tv: 0 | psnr: 0, ssim: 0
-
-step 2200, iphone | discriminator accuracy | train: 0.535, test: 0 
-generator losses | train: 540.8, test: 0 | content: 0, color: 0, texture: 0, tv: 0 | psnr: 0, ssim: 0
-
-step 2300, iphone | discriminator accuracy | train: 0.5307, test: 0 
-generator losses | train: 499.9, test: 0 | content: 0, color: 0, texture: 0, tv: 0 | psnr: 0, ssim: 0
-
-step 2400, iphone | discriminator accuracy | train: 0.5433, test: 0 
-generator losses | train: 478.2, test: 0 | content: 0, color: 0, texture: 0, tv: 0 | psnr: 0, ssim: 0
-
-step 2500, iphone | discriminator accuracy | train: 0.5253, test: 0 
-generator losses | train: 478.7, test: 0 | content: 0, color: 0, texture: 0, tv: 0 | psnr: 0, ssim: 0
-
-step 2600, iphone | discriminator accuracy | train: 0.5533, test: 0 
-generator losses | train: 527.2, test: 0 | content: 0, color: 0, texture: 0, tv: 0 | psnr: 0, ssim: 0
-
-step 2700, iphone | discriminator accuracy | train: 0.5617, test: 0 
-generator losses | train: 512.3, test: 0 | content: 0, color: 0, texture: 0, tv: 0 | psnr: 0, ssim: 0
-
-step 2800, iphone | discriminator accuracy | train: 0.5227, test: 0 
-generator losses | train: 483.1, test: 0 | content: 0, color: 0, texture: 0, tv: 0 | psnr: 0, ssim: 0
-
-step 2900, iphone | discriminator accuracy | train: 0.5417, test: 0 
-generator losses | train: 501.2, test: 0 | content: 0, color: 0, texture: 0, tv: 0 | psnr: 0, ssim: 0
-
-step 3000, iphone | discriminator accuracy | train: 0.5423, test: 0 
-generator losses | train: 501.1, test: 0 | content: 0, color: 0, texture: 0, tv: 0 | psnr: 0, ssim: 0
-
-step 3100, iphone | discriminator accuracy | train: 0.5333, test: 0 
-generator losses | train: 498, test: 0 | content: 0, color: 0, texture: 0, tv: 0 | psnr: 0, ssim: 0
-
-step 3200, iphone | discriminator accuracy | train: 0.52, test: 0 
-generator losses | train: 480.4, test: 0 | content: 0, color: 0, texture: 0, tv: 0 | psnr: 0, ssim: 0
-
-step 3300, iphone | discriminator accuracy | train: 0.5203, test: 0 
-generator losses | train: 484.3, test: 0 | content: 0, color: 0, texture: 0, tv: 0 | psnr: 0, ssim: 0
-
-step 3400, iphone | discriminator accuracy | train: 0.512, test: 0 
-generator losses | train: 485.2, test: 0 | content: 0, color: 0, texture: 0, tv: 0 | psnr: 0, ssim: 0
-
-step 3500, iphone | discriminator accuracy | train: 0.5507, test: 0 
-generator losses | train: 512.2, test: 0 | content: 0, color: 0, texture: 0, tv: 0 | psnr: 0, ssim: 0
-
-step 3600, iphone | discriminator accuracy | train: 0.523, test: 0 
-generator losses | train: 500, test: 0 | content: 0, color: 0, texture: 0, tv: 0 | psnr: 0, ssim: 0
-
-step 3700, iphone | discriminator accuracy | train: 0.5227, test: 0 
-generator losses | train: 480.3, test: 0 | content: 0, color: 0, texture: 0, tv: 0 | psnr: 0, ssim: 0
-
-step 3800, iphone | discriminator accuracy | train: 0.5313, test: 0 
-generator losses | train: 485, test: 0 | content: 0, color: 0, texture: 0, tv: 0 | psnr: 0, ssim: 0
-
-step 3900, iphone | discriminator accuracy | train: 0.5317, test: 0 
-generator losses | train: 505.6, test: 0 | content: 0, color: 0, texture: 0, tv: 0 | psnr: 0, ssim: 0
-
-step 4000, iphone | discriminator accuracy | train: 0.522, test: 0 
-generator losses | train: 460.5, test: 0 | content: 0, color: 0, texture: 0, tv: 0 | psnr: 0, ssim: 0
-
-step 4100, iphone | discriminator accuracy | train: 0.519, test: 0 
-generator losses | train: 482.1, test: 0 | content: 0, color: 0, texture: 0, tv: 0 | psnr: 0, ssim: 0
-
-step 4200, iphone | discriminator accuracy | train: 0.5373, test: 0 
-generator losses | train: 479.4, test: 0 | content: 0, color: 0, texture: 0, tv: 0 | psnr: 0, ssim: 0
-
-step 4300, iphone | discriminator accuracy | train: 0.5267, test: 0 
-generator losses | train: 497.4, test: 0 | content: 0, color: 0, texture: 0, tv: 0 | psnr: 0, ssim: 0
-
-step 4400, iphone | discriminator accuracy | train: 0.5157, test: 0 
-generator losses | train: 467.8, test: 0 | content: 0, color: 0, texture: 0, tv: 0 | psnr: 0, ssim: 0
-
-step 4500, iphone | discriminator accuracy | train: 0.5373, test: 0 
-generator losses | train: 478, test: 0 | content: 0, color: 0, texture: 0, tv: 0 | psnr: 0, ssim: 0
-
-step 4600, iphone | discriminator accuracy | train: 0.537, test: 0 
-generator losses | train: 502, test: 0 | content: 0, color: 0, texture: 0, tv: 0 | psnr: 0, ssim: 0
-
-step 4700, iphone | discriminator accuracy | train: 0.5527, test: 0 
-generator losses | train: 500.3, test: 0 | content: 0, color: 0, texture: 0, tv: 0 | psnr: 0, ssim: 0
-
-step 4800, iphone | discriminator accuracy | train: 0.536, test: 0 
-generator losses | train: 486.3, test: 0 | content: 0, color: 0, texture: 0, tv: 0 | psnr: 0, ssim: 0
-
-step 4900, iphone | discriminator accuracy | train: 0.5503, test: 0 
-generator losses | train: 498, test: 0 | content: 0, color: 0, texture: 0, tv: 0 | psnr: 0, ssim: 0
-
-step 5000, iphone | discriminator accuracy | train: 0.5263, test: 0 
-generator losses | train: 507.9, test: 0 | content: 0, color: 0, texture: 0, tv: 0 | psnr: 0, ssim: 0
-
-step 5100, iphone | discriminator accuracy | train: 0.545, test: 0 
-generator losses | train: 493.1, test: 0 | content: 0, color: 0, texture: 0, tv: 0 | psnr: 0, ssim: 0
-
-step 5200, iphone | discriminator accuracy | train: 0.5017, test: 0 
-generator losses | train: 504.1, test: 0 | content: 0, color: 0, texture: 0, tv: 0 | psnr: 0, ssim: 0
-
-step 5300, iphone | discriminator accuracy | train: 0.554, test: 0 
-generator losses | train: 499.7, test: 0 | content: 0, color: 0, texture: 0, tv: 0 | psnr: 0, ssim: 0
-
-step 0, iphone | discriminator accuracy | train: 0.2497, test: 0 
-generator losses | train: 237, test: 0 | content: 0, color: 0, texture: 0, tv: 0 | psnr: 0, ssim: 0
-
-step 100, iphone | discriminator accuracy | train: 0.5177, test: 0 
-generator losses | train: 484.4, test: 0 | content: 0, color: 0, texture: 0, tv: 0 | psnr: 0, ssim: 0
-
-step 200, iphone | discriminator accuracy | train: 0.511, test: 0 
-generator losses | train: 457.8, test: 0 | content: 0, color: 0, texture: 0, tv: 0 | psnr: 0, ssim: 0
-
-step 300, iphone | discriminator accuracy | train: 0.5023, test: 0 
-generator losses | train: 459, test: 0 | content: 0, color: 0, texture: 0, tv: 0 | psnr: 0, ssim: 0
-
-step 400, iphone | discriminator accuracy | train: 0.517, test: 0 
-generator losses | train: 508.8, test: 0 | content: 0, color: 0, texture: 0, tv: 0 | psnr: 0, ssim: 0
-
-step 500, iphone | discriminator accuracy | train: 0.5263, test: 0 
-generator losses | train: 481.9, test: 0 | content: 0, color: 0, texture: 0, tv: 0 | psnr: 0, ssim: 0
-
-step 600, iphone | discriminator accuracy | train: 0.5263, test: 0 
-generator losses | train: 498.4, test: 0 | content: 0, color: 0, texture: 0, tv: 0 | psnr: 0, ssim: 0
-
-step 700, iphone | discriminator accuracy | train: 0.5097, test: 0 
-generator losses | train: 452.9, test: 0 | content: 0, color: 0, texture: 0, tv: 0 | psnr: 0, ssim: 0
-
-step 800, iphone | discriminator accuracy | train: 0.5417, test: 0 
-generator losses | train: 487.9, test: 0 | content: 0, color: 0, texture: 0, tv: 0 | psnr: 0, ssim: 0
-
-step 900, iphone | discriminator accuracy | train: 0.5303, test: 0 
-generator losses | train: 466.6, test: 0 | content: 0, color: 0, texture: 0, tv: 0 | psnr: 0, ssim: 0
-
-step 1000, iphone | discriminator accuracy | train: 0.539, test: 0 
-generator losses | train: 508.2, test: 0 | content: 0, color: 0, texture: 0, tv: 0 | psnr: 0, ssim: 0
-
-step 1100, iphone | discriminator accuracy | train: 0.53, test: 0 
-generator losses | train: 498.7, test: 0 | content: 0, color: 0, texture: 0, tv: 0 | psnr: 0, ssim: 0
-
-step 1200, iphone | discriminator accuracy | train: 0.5047, test: 0 
-generator losses | train: 486.7, test: 0 | content: 0, color: 0, texture: 0, tv: 0 | psnr: 0, ssim: 0
-
-step 1300, iphone | discriminator accuracy | train: 0.53, test: 0 
-generator losses | train: 466.1, test: 0 | content: 0, color: 0, texture: 0, tv: 0 | psnr: 0, ssim: 0
-
-step 1400, iphone | discriminator accuracy | train: 0.5287, test: 0 
-generator losses | train: 479.6, test: 0 | content: 0, color: 0, texture: 0, tv: 0 | psnr: 0, ssim: 0
-
-step 1500, iphone | discriminator accuracy | train: 0.5477, test: 0 
-generator losses | train: 496.6, test: 0 | content: 0, color: 0, texture: 0, tv: 0 | psnr: 0, ssim: 0
-
-step 1600, iphone | discriminator accuracy | train: 0.5413, test: 0 
-generator losses | train: 474.6, test: 0 | content: 0, color: 0, texture: 0, tv: 0 | psnr: 0, ssim: 0
-
-step 1700, iphone | discriminator accuracy | train: 0.5297, test: 0 
-generator losses | train: 486.8, test: 0 | content: 0, color: 0, texture: 0, tv: 0 | psnr: 0, ssim: 0
-
-step 1800, iphone | discriminator accuracy | train: 0.529, test: 0 
-generator losses | train: 494.4, test: 0 | content: 0, color: 0, texture: 0, tv: 0 | psnr: 0, ssim: 0
-
-step 1900, iphone | discriminator accuracy | train: 0.5287, test: 0 
-generator losses | train: 474.1, test: 0 | content: 0, color: 0, texture: 0, tv: 0 | psnr: 0, ssim: 0
-
-step 2000, iphone | discriminator accuracy | train: 0.5397, test: 0 
-generator losses | train: 486.6, test: 0 | content: 0, color: 0, texture: 0, tv: 0 | psnr: 0, ssim: 0
-
-step 2100, iphone | discriminator accuracy | train: 0.5187, test: 0 
-generator losses | train: 457.4, test: 0 | content: 0, color: 0, texture: 0, tv: 0 | psnr: 0, ssim: 0
-
-step 2200, iphone | discriminator accuracy | train: 0.503, test: 0 
-generator losses | train: 483.3, test: 0 | content: 0, color: 0, texture: 0, tv: 0 | psnr: 0, ssim: 0
-
-step 2300, iphone | discriminator accuracy | train: 0.544, test: 0 
-generator losses | train: 499, test: 0 | content: 0, color: 0, texture: 0, tv: 0 | psnr: 0, ssim: 0
-
-step 2400, iphone | discriminator accuracy | train: 0.521, test: 0 
-generator losses | train: 469, test: 0 | content: 0, color: 0, texture: 0, tv: 0 | psnr: 0, ssim: 0
-
-step 2500, iphone | discriminator accuracy | train: 0.5307, test: 0 
-generator losses | train: 515.7, test: 0 | content: 0, color: 0, texture: 0, tv: 0 | psnr: 0, ssim: 0
-
-step 2600, iphone | discriminator accuracy | train: 0.5373, test: 0 
-generator losses | train: 474.9, test: 0 | content: 0, color: 0, texture: 0, tv: 0 | psnr: 0, ssim: 0
-
-step 2700, iphone | discriminator accuracy | train: 0.5313, test: 0 
-generator losses | train: 476.5, test: 0 | content: 0, color: 0, texture: 0, tv: 0 | psnr: 0, ssim: 0
-
-step 2800, iphone | discriminator accuracy | train: 0.51, test: 0 
-generator losses | train: 457.7, test: 0 | content: 0, color: 0, texture: 0, tv: 0 | psnr: 0, ssim: 0
-
-step 2900, iphone | discriminator accuracy | train: 0.5127, test: 0 
-generator losses | train: 475.8, test: 0 | content: 0, color: 0, texture: 0, tv: 0 | psnr: 0, ssim: 0
-
-step 3000, iphone | discriminator accuracy | train: 0.522, test: 0 
-generator losses | train: 461.6, test: 0 | content: 0, color: 0, texture: 0, tv: 0 | psnr: 0, ssim: 0
-
-step 3100, iphone | discriminator accuracy | train: 0.546, test: 0 
-generator losses | train: 458.5, test: 0 | content: 0, color: 0, texture: 0, tv: 0 | psnr: 0, ssim: 0
-
-step 3200, iphone | discriminator accuracy | train: 0.525, test: 0 
-generator losses | train: 495, test: 0 | content: 0, color: 0, texture: 0, tv: 0 | psnr: 0, ssim: 0
-
-step 3300, iphone | discriminator accuracy | train: 0.535, test: 0 
-generator losses | train: 487.2, test: 0 | content: 0, color: 0, texture: 0, tv: 0 | psnr: 0, ssim: 0
-
-step 3400, iphone | discriminator accuracy | train: 0.519, test: 0 
-generator losses | train: 489.8, test: 0 | content: 0, color: 0, texture: 0, tv: 0 | psnr: 0, ssim: 0
-
-step 3500, iphone | discriminator accuracy | train: 0.5297, test: 0 
-generator losses | train: 464.9, test: 0 | content: 0, color: 0, texture: 0, tv: 0 | psnr: 0, ssim: 0
-
-step 3600, iphone | discriminator accuracy | train: 0.5323, test: 0 
-generator losses | train: 483.6, test: 0 | content: 0, color: 0, texture: 0, tv: 0 | psnr: 0, ssim: 0
-
-step 3700, iphone | discriminator accuracy | train: 0.5333, test: 0 
-generator losses | train: 491.6, test: 0 | content: 0, color: 0, texture: 0, tv: 0 | psnr: 0, ssim: 0
-
-step 3800, iphone | discriminator accuracy | train: 0.5267, test: 0 
-generator losses | train: 468.7, test: 0 | content: 0, color: 0, texture: 0, tv: 0 | psnr: 0, ssim: 0
-
-step 3900, iphone | discriminator accuracy | train: 0.5393, test: 0 
-generator losses | train: 456.4, test: 0 | content: 0, color: 0, texture: 0, tv: 0 | psnr: 0, ssim: 0
-
-step 4000, iphone | discriminator accuracy | train: 0.5417, test: 0 
-generator losses | train: 488.1, test: 0 | content: 0, color: 0, texture: 0, tv: 0 | psnr: 0, ssim: 0
-
-step 4100, iphone | discriminator accuracy | train: 0.5513, test: 0 
-generator losses | train: 515.3, test: 0 | content: 0, color: 0, texture: 0, tv: 0 | psnr: 0, ssim: 0
-
-step 4200, iphone | discriminator accuracy | train: 0.534, test: 0 
-generator losses | train: 502.3, test: 0 | content: 0, color: 0, texture: 0, tv: 0 | psnr: 0, ssim: 0
-
-step 4300, iphone | discriminator accuracy | train: 0.5193, test: 0 
-generator losses | train: 472.2, test: 0 | content: 0, color: 0, texture: 0, tv: 0 | psnr: 0, ssim: 0
-
-step 4400, iphone | discriminator accuracy | train: 0.5313, test: 0 
-generator losses | train: 463.6, test: 0 | content: 0, color: 0, texture: 0, tv: 0 | psnr: 0, ssim: 0
-
-step 4500, iphone | discriminator accuracy | train: 0.544, test: 0 
-generator losses | train: 496.9, test: 0 | content: 0, color: 0, texture: 0, tv: 0 | psnr: 0, ssim: 0
-
-step 4600, iphone | discriminator accuracy | train: 0.5257, test: 0 
-generator losses | train: 497.6, test: 0 | content: 0, color: 0, texture: 0, tv: 0 | psnr: 0, ssim: 0
-
-step 4700, iphone | discriminator accuracy | train: 0.5323, test: 0 
-generator losses | train: 477.4, test: 0 | content: 0, color: 0, texture: 0, tv: 0 | psnr: 0, ssim: 0
-
-step 4800, iphone | discriminator accuracy | train: 0.523, test: 0 
-generator losses | train: 490.2, test: 0 | content: 0, color: 0, texture: 0, tv: 0 | psnr: 0, ssim: 0
-
-step 4900, iphone | discriminator accuracy | train: 0.5203, test: 0 
-generator losses | train: 492.7, test: 0 | content: 0, color: 0, texture: 0, tv: 0 | psnr: 0, ssim: 0
-
-step 5000, iphone | discriminator accuracy | train: 0.52, test: 0 
-generator losses | train: 455.9, test: 0 | content: 0, color: 0, texture: 0, tv: 0 | psnr: 0, ssim: 0
-
-step 5100, iphone | discriminator accuracy | train: 0.493, test: 0 
-generator losses | train: 455.4, test: 0 | content: 0, color: 0, texture: 0, tv: 0 | psnr: 0, ssim: 0
-
-step 5200, iphone | discriminator accuracy | train: 0.534, test: 0 
-generator losses | train: 463.8, test: 0 | content: 0, color: 0, texture: 0, tv: 0 | psnr: 0, ssim: 0
-
-step 5300, iphone | discriminator accuracy | train: 0.525, test: 0 
-generator losses | train: 458, test: 0 | content: 0, color: 0, texture: 0, tv: 0 | psnr: 0, ssim: 0
-
-step 0, iphone | discriminator accuracy | train: 0.2647, test: 0 
-generator losses | train: 237.6, test: 0 | content: 0, color: 0, texture: 0, tv: 0 | psnr: 0, ssim: 0
-
-step 100, iphone | discriminator accuracy | train: 0.535, test: 0 
-generator losses | train: 482.8, test: 0 | content: 0, color: 0, texture: 0, tv: 0 | psnr: 0, ssim: 0
-
-step 200, iphone | discriminator accuracy | train: 0.522, test: 0 
-generator losses | train: 455.5, test: 0 | content: 0, color: 0, texture: 0, tv: 0 | psnr: 0, ssim: 0
-
-step 300, iphone | discriminator accuracy | train: 0.5577, test: 0 
-generator losses | train: 469, test: 0 | content: 0, color: 0, texture: 0, tv: 0 | psnr: 0, ssim: 0
-
-step 400, iphone | discriminator accuracy | train: 0.5417, test: 0 
-generator losses | train: 475.7, test: 0 | content: 0, color: 0, texture: 0, tv: 0 | psnr: 0, ssim: 0
-
-step 500, iphone | discriminator accuracy | train: 0.526, test: 0 
-generator losses | train: 475.3, test: 0 | content: 0, color: 0, texture: 0, tv: 0 | psnr: 0, ssim: 0
-
-step 600, iphone | discriminator accuracy | train: 0.5273, test: 0 
-generator losses | train: 461, test: 0 | content: 0, color: 0, texture: 0, tv: 0 | psnr: 0, ssim: 0
-
-step 700, iphone | discriminator accuracy | train: 0.5647, test: 0 
-generator losses | train: 498.6, test: 0 | content: 0, color: 0, texture: 0, tv: 0 | psnr: 0, ssim: 0
-
-step 800, iphone | discriminator accuracy | train: 0.5237, test: 0 
-generator losses | train: 465.4, test: 0 | content: 0, color: 0, texture: 0, tv: 0 | psnr: 0, ssim: 0
-
-step 900, iphone | discriminator accuracy | train: 0.5333, test: 0 
-generator losses | train: 481.7, test: 0 | content: 0, color: 0, texture: 0, tv: 0 | psnr: 0, ssim: 0
-
-step 1000, iphone | discriminator accuracy | train: 0.524, test: 0 
-generator losses | train: 466.6, test: 0 | content: 0, color: 0, texture: 0, tv: 0 | psnr: 0, ssim: 0
-
-step 1100, iphone | discriminator accuracy | train: 0.54, test: 0 
-generator losses | train: 465.1, test: 0 | content: 0, color: 0, texture: 0, tv: 0 | psnr: 0, ssim: 0
-
-step 1200, iphone | discriminator accuracy | train: 0.539, test: 0 
-generator losses | train: 478.9, test: 0 | content: 0, color: 0, texture: 0, tv: 0 | psnr: 0, ssim: 0
-
-step 1300, iphone | discriminator accuracy | train: 0.5347, test: 0 
-generator losses | train: 489, test: 0 | content: 0, color: 0, texture: 0, tv: 0 | psnr: 0, ssim: 0
-
-step 1400, iphone | discriminator accuracy | train: 0.5343, test: 0 
-generator losses | train: 471.3, test: 0 | content: 0, color: 0, texture: 0, tv: 0 | psnr: 0, ssim: 0
-
-step 1500, iphone | discriminator accuracy | train: 0.5387, test: 0 
-generator losses | train: 477.9, test: 0 | content: 0, color: 0, texture: 0, tv: 0 | psnr: 0, ssim: 0
-
-step 1600, iphone | discriminator accuracy | train: 0.5267, test: 0 
-generator losses | train: 461.8, test: 0 | content: 0, color: 0, texture: 0, tv: 0 | psnr: 0, ssim: 0
-
-step 1700, iphone | discriminator accuracy | train: 0.5153, test: 0 
-generator losses | train: 472, test: 0 | content: 0, color: 0, texture: 0, tv: 0 | psnr: 0, ssim: 0
-
-step 1800, iphone | discriminator accuracy | train: 0.5053, test: 0 
-generator losses | train: 470.4, test: 0 | content: 0, color: 0, texture: 0, tv: 0 | psnr: 0, ssim: 0
-
-step 1900, iphone | discriminator accuracy | train: 0.523, test: 0 
-generator losses | train: 472.6, test: 0 | content: 0, color: 0, texture: 0, tv: 0 | psnr: 0, ssim: 0
-
-step 2000, iphone | discriminator accuracy | train: 0.518, test: 0 
-generator losses | train: 474.2, test: 0 | content: 0, color: 0, texture: 0, tv: 0 | psnr: 0, ssim: 0
-
-step 2100, iphone | discriminator accuracy | train: 0.521, test: 0 
-generator losses | train: 465.7, test: 0 | content: 0, color: 0, texture: 0, tv: 0 | psnr: 0, ssim: 0
-
-step 2200, iphone | discriminator accuracy | train: 0.5347, test: 0 
-generator losses | train: 472.5, test: 0 | content: 0, color: 0, texture: 0, tv: 0 | psnr: 0, ssim: 0
-
-step 2300, iphone | discriminator accuracy | train: 0.5343, test: 0 
-generator losses | train: 434.7, test: 0 | content: 0, color: 0, texture: 0, tv: 0 | psnr: 0, ssim: 0
-
-step 2400, iphone | discriminator accuracy | train: 0.5403, test: 0 
-generator losses | train: 485, test: 0 | content: 0, color: 0, texture: 0, tv: 0 | psnr: 0, ssim: 0
-
-step 2500, iphone | discriminator accuracy | train: 0.5227, test: 0 
-generator losses | train: 477.7, test: 0 | content: 0, color: 0, texture: 0, tv: 0 | psnr: 0, ssim: 0
-
-step 2600, iphone | discriminator accuracy | train: 0.5367, test: 0 
-generator losses | train: 502.6, test: 0 | content: 0, color: 0, texture: 0, tv: 0 | psnr: 0, ssim: 0
-
-step 2700, iphone | discriminator accuracy | train: 0.536, test: 0 
-generator losses | train: 472.8, test: 0 | content: 0, color: 0, texture: 0, tv: 0 | psnr: 0, ssim: 0
-
-step 2800, iphone | discriminator accuracy | train: 0.4947, test: 0 
-generator losses | train: 455.5, test: 0 | content: 0, color: 0, texture: 0, tv: 0 | psnr: 0, ssim: 0
-
-step 2900, iphone | discriminator accuracy | train: 0.5167, test: 0 
-generator losses | train: 444.3, test: 0 | content: 0, color: 0, texture: 0, tv: 0 | psnr: 0, ssim: 0
-
-step 3000, iphone | discriminator accuracy | train: 0.5063, test: 0 
-generator losses | train: 456, test: 0 | content: 0, color: 0, texture: 0, tv: 0 | psnr: 0, ssim: 0
-
-step 3100, iphone | discriminator accuracy | train: 0.523, test: 0 
-generator losses | train: 462.6, test: 0 | content: 0, color: 0, texture: 0, tv: 0 | psnr: 0, ssim: 0
-
-step 3200, iphone | discriminator accuracy | train: 0.5453, test: 0 
-generator losses | train: 462.9, test: 0 | content: 0, color: 0, texture: 0, tv: 0 | psnr: 0, ssim: 0
-
-step 3300, iphone | discriminator accuracy | train: 0.5177, test: 0 
-generator losses | train: 465.3, test: 0 | content: 0, color: 0, texture: 0, tv: 0 | psnr: 0, ssim: 0
-
-step 3400, iphone | discriminator accuracy | train: 0.5233, test: 0 
-generator losses | train: 471.5, test: 0 | content: 0, color: 0, texture: 0, tv: 0 | psnr: 0, ssim: 0
-
-step 3500, iphone | discriminator accuracy | train: 0.524, test: 0 
-generator losses | train: 512.9, test: 0 | content: 0, color: 0, texture: 0, tv: 0 | psnr: 0, ssim: 0
-
-step 3600, iphone | discriminator accuracy | train: 0.5237, test: 0 
-generator losses | train: 463.7, test: 0 | content: 0, color: 0, texture: 0, tv: 0 | psnr: 0, ssim: 0
-
-step 3700, iphone | discriminator accuracy | train: 0.5327, test: 0 
-generator losses | train: 449.8, test: 0 | content: 0, color: 0, texture: 0, tv: 0 | psnr: 0, ssim: 0
-
-step 3800, iphone | discriminator accuracy | train: 0.5337, test: 0 
-generator losses | train: 495.1, test: 0 | content: 0, color: 0, texture: 0, tv: 0 | psnr: 0, ssim: 0
-
-step 3900, iphone | discriminator accuracy | train: 0.5347, test: 0 
-generator losses | train: 451.1, test: 0 | content: 0, color: 0, texture: 0, tv: 0 | psnr: 0, ssim: 0
-
-step 4000, iphone | discriminator accuracy | train: 0.5373, test: 0 
-generator losses | train: 486.6, test: 0 | content: 0, color: 0, texture: 0, tv: 0 | psnr: 0, ssim: 0
-
-step 4100, iphone | discriminator accuracy | train: 0.512, test: 0 
-generator losses | train: 461.9, test: 0 | content: 0, color: 0, texture: 0, tv: 0 | psnr: 0, ssim: 0
-
-step 4200, iphone | discriminator accuracy | train: 0.5267, test: 0 
-generator losses | train: 466.2, test: 0 | content: 0, color: 0, texture: 0, tv: 0 | psnr: 0, ssim: 0
-
-step 4300, iphone | discriminator accuracy | train: 0.5607, test: 0 
-generator losses | train: 492.9, test: 0 | content: 0, color: 0, texture: 0, tv: 0 | psnr: 0, ssim: 0
-
-step 4400, iphone | discriminator accuracy | train: 0.5167, test: 0 
-generator losses | train: 451.8, test: 0 | content: 0, color: 0, texture: 0, tv: 0 | psnr: 0, ssim: 0
-
-step 4500, iphone | discriminator accuracy | train: 0.5097, test: 0 
-generator losses | train: 456.4, test: 0 | content: 0, color: 0, texture: 0, tv: 0 | psnr: 0, ssim: 0
-
-step 4600, iphone | discriminator accuracy | train: 0.517, test: 0 
-generator losses | train: 467.6, test: 0 | content: 0, color: 0, texture: 0, tv: 0 | psnr: 0, ssim: 0
-
-step 4700, iphone | discriminator accuracy | train: 0.536, test: 0 
-generator losses | train: 465.1, test: 0 | content: 0, color: 0, texture: 0, tv: 0 | psnr: 0, ssim: 0
-
-step 4800, iphone | discriminator accuracy | train: 0.5443, test: 0 
-generator losses | train: 466.5, test: 0 | content: 0, color: 0, texture: 0, tv: 0 | psnr: 0, ssim: 0
-
-step 4900, iphone | discriminator accuracy | train: 0.524, test: 0 
-generator losses | train: 463.6, test: 0 | content: 0, color: 0, texture: 0, tv: 0 | psnr: 0, ssim: 0
-
-step 5000, iphone | discriminator accuracy | train: 0.5143, test: 0 
-generator losses | train: 467.6, test: 0 | content: 0, color: 0, texture: 0, tv: 0 | psnr: 0, ssim: 0
-
-step 5100, iphone | discriminator accuracy | train: 0.5357, test: 0 
-generator losses | train: 479.5, test: 0 | content: 0, color: 0, texture: 0, tv: 0 | psnr: 0, ssim: 0
-
-step 5200, iphone | discriminator accuracy | train: 0.521, test: 0 
-generator losses | train: 458.6, test: 0 | content: 0, color: 0, texture: 0, tv: 0 | psnr: 0, ssim: 0
-
-step 5300, iphone | discriminator accuracy | train: 0.537, test: 0 
-generator losses | train: 459.7, test: 0 | content: 0, color: 0, texture: 0, tv: 0 | psnr: 0, ssim: 0
-
-step 0, iphone | discriminator accuracy | train: 0.2597, test: 0 
-generator losses | train: 241.7, test: 0 | content: 0, color: 0, texture: 0, tv: 0 | psnr: 0, ssim: 0
-
-step 100, iphone | discriminator accuracy | train: 0.5387, test: 0 
-generator losses | train: 485.4, test: 0 | content: 0, color: 0, texture: 0, tv: 0 | psnr: 0, ssim: 0
-
-step 200, iphone | discriminator accuracy | train: 0.523, test: 0 
-generator losses | train: 460.2, test: 0 | content: 0, color: 0, texture: 0, tv: 0 | psnr: 0, ssim: 0
-
-step 300, iphone | discriminator accuracy | train: 0.522, test: 0 
-generator losses | train: 446, test: 0 | content: 0, color: 0, texture: 0, tv: 0 | psnr: 0, ssim: 0
-
-step 400, iphone | discriminator accuracy | train: 0.54, test: 0 
-generator losses | train: 472.2, test: 0 | content: 0, color: 0, texture: 0, tv: 0 | psnr: 0, ssim: 0
-
-step 500, iphone | discriminator accuracy | train: 0.5513, test: 0 
-generator losses | train: 491.2, test: 0 | content: 0, color: 0, texture: 0, tv: 0 | psnr: 0, ssim: 0
-
-step 600, iphone | discriminator accuracy | train: 0.543, test: 0 
-generator losses | train: 502.2, test: 0 | content: 0, color: 0, texture: 0, tv: 0 | psnr: 0, ssim: 0
-
-step 700, iphone | discriminator accuracy | train: 0.5653, test: 0 
-generator losses | train: 487.1, test: 0 | content: 0, color: 0, texture: 0, tv: 0 | psnr: 0, ssim: 0
-
-step 800, iphone | discriminator accuracy | train: 0.5187, test: 0 
-generator losses | train: 464.7, test: 0 | content: 0, color: 0, texture: 0, tv: 0 | psnr: 0, ssim: 0
-
-step 900, iphone | discriminator accuracy | train: 0.5247, test: 0 
-generator losses | train: 437.6, test: 0 | content: 0, color: 0, texture: 0, tv: 0 | psnr: 0, ssim: 0
-
-step 1000, iphone | discriminator accuracy | train: 0.5323, test: 0 
-generator losses | train: 469.2, test: 0 | content: 0, color: 0, texture: 0, tv: 0 | psnr: 0, ssim: 0
-
-step 1100, iphone | discriminator accuracy | train: 0.5307, test: 0 
-generator losses | train: 452.5, test: 0 | content: 0, color: 0, texture: 0, tv: 0 | psnr: 0, ssim: 0
-
-step 1200, iphone | discriminator accuracy | train: 0.5183, test: 0 
-generator losses | train: 477.5, test: 0 | content: 0, color: 0, texture: 0, tv: 0 | psnr: 0, ssim: 0
-
-step 1300, iphone | discriminator accuracy | train: 0.5577, test: 0 
-generator losses | train: 479.5, test: 0 | content: 0, color: 0, texture: 0, tv: 0 | psnr: 0, ssim: 0
-
-step 1400, iphone | discriminator accuracy | train: 0.531, test: 0 
-generator losses | train: 490.3, test: 0 | content: 0, color: 0, texture: 0, tv: 0 | psnr: 0, ssim: 0
-
-step 1500, iphone | discriminator accuracy | train: 0.5143, test: 0 
-generator losses | train: 449.1, test: 0 | content: 0, color: 0, texture: 0, tv: 0 | psnr: 0, ssim: 0
-
-step 1600, iphone | discriminator accuracy | train: 0.523, test: 0 
-generator losses | train: 460.6, test: 0 | content: 0, color: 0, texture: 0, tv: 0 | psnr: 0, ssim: 0
-
-step 1700, iphone | discriminator accuracy | train: 0.491, test: 0 
-generator losses | train: 456.6, test: 0 | content: 0, color: 0, texture: 0, tv: 0 | psnr: 0, ssim: 0
-
-step 1800, iphone | discriminator accuracy | train: 0.5187, test: 0 
-generator losses | train: 443.5, test: 0 | content: 0, color: 0, texture: 0, tv: 0 | psnr: 0, ssim: 0
-
-step 1900, iphone | discriminator accuracy | train: 0.5147, test: 0 
-generator losses | train: 448.2, test: 0 | content: 0, color: 0, texture: 0, tv: 0 | psnr: 0, ssim: 0
-
-step 2000, iphone | discriminator accuracy | train: 0.5373, test: 0 
-generator losses | train: 456.8, test: 0 | content: 0, color: 0, texture: 0, tv: 0 | psnr: 0, ssim: 0
-
-step 2100, iphone | discriminator accuracy | train: 0.5333, test: 0 
-generator losses | train: 450.7, test: 0 | content: 0, color: 0, texture: 0, tv: 0 | psnr: 0, ssim: 0
-
-step 2200, iphone | discriminator accuracy | train: 0.5137, test: 0 
-generator losses | train: 448.9, test: 0 | content: 0, color: 0, texture: 0, tv: 0 | psnr: 0, ssim: 0
-
-step 2300, iphone | discriminator accuracy | train: 0.5263, test: 0 
-generator losses | train: 440.9, test: 0 | content: 0, color: 0, texture: 0, tv: 0 | psnr: 0, ssim: 0
-
-step 2400, iphone | discriminator accuracy | train: 0.525, test: 0 
-generator losses | train: 451.6, test: 0 | content: 0, color: 0, texture: 0, tv: 0 | psnr: 0, ssim: 0
-
-step 2500, iphone | discriminator accuracy | train: 0.514, test: 0 
-generator losses | train: 450.3, test: 0 | content: 0, color: 0, texture: 0, tv: 0 | psnr: 0, ssim: 0
-
-step 2600, iphone | discriminator accuracy | train: 0.532, test: 0 
-generator losses | train: 466.2, test: 0 | content: 0, color: 0, texture: 0, tv: 0 | psnr: 0, ssim: 0
-
-step 2700, iphone | discriminator accuracy | train: 0.5197, test: 0 
-generator losses | train: 470.4, test: 0 | content: 0, color: 0, texture: 0, tv: 0 | psnr: 0, ssim: 0
-
-step 2800, iphone | discriminator accuracy | train: 0.5297, test: 0 
-generator losses | train: 452.3, test: 0 | content: 0, color: 0, texture: 0, tv: 0 | psnr: 0, ssim: 0
-
-step 2900, iphone | discriminator accuracy | train: 0.521, test: 0 
-generator losses | train: 447.3, test: 0 | content: 0, color: 0, texture: 0, tv: 0 | psnr: 0, ssim: 0
-
-step 3000, iphone | discriminator accuracy | train: 0.519, test: 0 
-generator losses | train: 446, test: 0 | content: 0, color: 0, texture: 0, tv: 0 | psnr: 0, ssim: 0
-
-step 3100, iphone | discriminator accuracy | train: 0.517, test: 0 
-generator losses | train: 428.7, test: 0 | content: 0, color: 0, texture: 0, tv: 0 | psnr: 0, ssim: 0
-
-step 3200, iphone | discriminator accuracy | train: 0.5543, test: 0 
-generator losses | train: 489.5, test: 0 | content: 0, color: 0, texture: 0, tv: 0 | psnr: 0, ssim: 0
-
-step 3300, iphone | discriminator accuracy | train: 0.5123, test: 0 
-generator losses | train: 446.6, test: 0 | content: 0, color: 0, texture: 0, tv: 0 | psnr: 0, ssim: 0
-
-step 3400, iphone | discriminator accuracy | train: 0.5253, test: 0 
-generator losses | train: 471.9, test: 0 | content: 0, color: 0, texture: 0, tv: 0 | psnr: 0, ssim: 0
-
-step 3500, iphone | discriminator accuracy | train: 0.5217, test: 0 
-generator losses | train: 453.3, test: 0 | content: 0, color: 0, texture: 0, tv: 0 | psnr: 0, ssim: 0
-
-step 3600, iphone | discriminator accuracy | train: 0.5267, test: 0 
-generator losses | train: 448.9, test: 0 | content: 0, color: 0, texture: 0, tv: 0 | psnr: 0, ssim: 0
-
-step 3700, iphone | discriminator accuracy | train: 0.5307, test: 0 
-generator losses | train: 430.2, test: 0 | content: 0, color: 0, texture: 0, tv: 0 | psnr: 0, ssim: 0
-
-step 3800, iphone | discriminator accuracy | train: 0.5313, test: 0 
-generator losses | train: 447.1, test: 0 | content: 0, color: 0, texture: 0, tv: 0 | psnr: 0, ssim: 0
-
-step 3900, iphone | discriminator accuracy | train: 0.5227, test: 0 
-generator losses | train: 433.9, test: 0 | content: 0, color: 0, texture: 0, tv: 0 | psnr: 0, ssim: 0
-
-step 4000, iphone | discriminator accuracy | train: 0.529, test: 0 
-generator losses | train: 464.1, test: 0 | content: 0, color: 0, texture: 0, tv: 0 | psnr: 0, ssim: 0
-
-step 4100, iphone | discriminator accuracy | train: 0.5067, test: 0 
-generator losses | train: 470.9, test: 0 | content: 0, color: 0, texture: 0, tv: 0 | psnr: 0, ssim: 0
-
-step 4200, iphone | discriminator accuracy | train: 0.531, test: 0 
-generator losses | train: 438.3, test: 0 | content: 0, color: 0, texture: 0, tv: 0 | psnr: 0, ssim: 0
-
-step 4300, iphone | discriminator accuracy | train: 0.5143, test: 0 
-generator losses | train: 464.2, test: 0 | content: 0, color: 0, texture: 0, tv: 0 | psnr: 0, ssim: 0
-
-step 4400, iphone | discriminator accuracy | train: 0.5297, test: 0 
-generator losses | train: 442.6, test: 0 | content: 0, color: 0, texture: 0, tv: 0 | psnr: 0, ssim: 0
-
-step 4500, iphone | discriminator accuracy | train: 0.5323, test: 0 
-generator losses | train: 439.1, test: 0 | content: 0, color: 0, texture: 0, tv: 0 | psnr: 0, ssim: 0
-
-step 4600, iphone | discriminator accuracy | train: 0.5327, test: 0 
-generator losses | train: 472.9, test: 0 | content: 0, color: 0, texture: 0, tv: 0 | psnr: 0, ssim: 0
-
-step 4700, iphone | discriminator accuracy | train: 0.5217, test: 0 
-generator losses | train: 459.6, test: 0 | content: 0, color: 0, texture: 0, tv: 0 | psnr: 0, ssim: 0
-
-step 4800, iphone | discriminator accuracy | train: 0.5333, test: 0 
-generator losses | train: 459.2, test: 0 | content: 0, color: 0, texture: 0, tv: 0 | psnr: 0, ssim: 0
-
-step 4900, iphone | discriminator accuracy | train: 0.5437, test: 0 
-generator losses | train: 476.7, test: 0 | content: 0, color: 0, texture: 0, tv: 0 | psnr: 0, ssim: 0
-
-step 5000, iphone | discriminator accuracy | train: 0.516, test: 0 
-generator losses | train: 434.2, test: 0 | content: 0, color: 0, texture: 0, tv: 0 | psnr: 0, ssim: 0
-
-step 5100, iphone | discriminator accuracy | train: 0.507, test: 0 
-generator losses | train: 466.9, test: 0 | content: 0, color: 0, texture: 0, tv: 0 | psnr: 0, ssim: 0
-
-step 5200, iphone | discriminator accuracy | train: 0.5173, test: 0 
-generator losses | train: 453.3, test: 0 | content: 0, color: 0, texture: 0, tv: 0 | psnr: 0, ssim: 0
-
-step 5300, iphone | discriminator accuracy | train: 0.5297, test: 0 
-generator losses | train: 464.2, test: 0 | content: 0, color: 0, texture: 0, tv: 0 | psnr: 0, ssim: 0
-
-step 0, iphone | discriminator accuracy | train: 0.2557, test: 0 
-generator losses | train: 229.5, test: 0 | content: 0, color: 0, texture: 0, tv: 0 | psnr: 0, ssim: 0
-
-step 100, iphone | discriminator accuracy | train: 0.52, test: 0 
-generator losses | train: 462.9, test: 0 | content: 0, color: 0, texture: 0, tv: 0 | psnr: 0, ssim: 0
-
-step 200, iphone | discriminator accuracy | train: 0.5273, test: 0 
-generator losses | train: 459.1, test: 0 | content: 0, color: 0, texture: 0, tv: 0 | psnr: 0, ssim: 0
-
-step 300, iphone | discriminator accuracy | train: 0.515, test: 0 
-generator losses | train: 436.6, test: 0 | content: 0, color: 0, texture: 0, tv: 0 | psnr: 0, ssim: 0
-
-step 400, iphone | discriminator accuracy | train: 0.5423, test: 0 
-generator losses | train: 459.8, test: 0 | content: 0, color: 0, texture: 0, tv: 0 | psnr: 0, ssim: 0
-
-step 500, iphone | discriminator accuracy | train: 0.5373, test: 0 
-generator losses | train: 457.9, test: 0 | content: 0, color: 0, texture: 0, tv: 0 | psnr: 0, ssim: 0
-
-step 600, iphone | discriminator accuracy | train: 0.5293, test: 0 
-generator losses | train: 476.8, test: 0 | content: 0, color: 0, texture: 0, tv: 0 | psnr: 0, ssim: 0
-
-step 700, iphone | discriminator accuracy | train: 0.5133, test: 0 
-generator losses | train: 433.3, test: 0 | content: 0, color: 0, texture: 0, tv: 0 | psnr: 0, ssim: 0
-
-step 800, iphone | discriminator accuracy | train: 0.5173, test: 0 
-generator losses | train: 456, test: 0 | content: 0, color: 0, texture: 0, tv: 0 | psnr: 0, ssim: 0
-
-step 900, iphone | discriminator accuracy | train: 0.5263, test: 0 
-generator losses | train: 470.9, test: 0 | content: 0, color: 0, texture: 0, tv: 0 | psnr: 0, ssim: 0
-
-step 1000, iphone | discriminator accuracy | train: 0.5513, test: 0 
-generator losses | train: 471.7, test: 0 | content: 0, color: 0, texture: 0, tv: 0 | psnr: 0, ssim: 0
-
-step 1100, iphone | discriminator accuracy | train: 0.554, test: 0 
-generator losses | train: 461, test: 0 | content: 0, color: 0, texture: 0, tv: 0 | psnr: 0, ssim: 0
-
-step 1200, iphone | discriminator accuracy | train: 0.5277, test: 0 
-generator losses | train: 450.9, test: 0 | content: 0, color: 0, texture: 0, tv: 0 | psnr: 0, ssim: 0
-
-step 1300, iphone | discriminator accuracy | train: 0.5353, test: 0 
-generator losses | train: 455.4, test: 0 | content: 0, color: 0, texture: 0, tv: 0 | psnr: 0, ssim: 0
-
-step 1400, iphone | discriminator accuracy | train: 0.5377, test: 0 
-generator losses | train: 450.6, test: 0 | content: 0, color: 0, texture: 0, tv: 0 | psnr: 0, ssim: 0
-
-step 1500, iphone | discriminator accuracy | train: 0.5423, test: 0 
-generator losses | train: 458.1, test: 0 | content: 0, color: 0, texture: 0, tv: 0 | psnr: 0, ssim: 0
-
-step 1600, iphone | discriminator accuracy | train: 0.4983, test: 0 
-generator losses | train: 448.8, test: 0 | content: 0, color: 0, texture: 0, tv: 0 | psnr: 0, ssim: 0
-
-step 1700, iphone | discriminator accuracy | train: 0.517, test: 0 
-generator losses | train: 415.2, test: 0 | content: 0, color: 0, texture: 0, tv: 0 | psnr: 0, ssim: 0
-
-step 1800, iphone | discriminator accuracy | train: 0.528, test: 0 
-generator losses | train: 428.7, test: 0 | content: 0, color: 0, texture: 0, tv: 0 | psnr: 0, ssim: 0
-
-step 1900, iphone | discriminator accuracy | train: 0.5427, test: 0 
-generator losses | train: 449, test: 0 | content: 0, color: 0, texture: 0, tv: 0 | psnr: 0, ssim: 0
-
-step 2000, iphone | discriminator accuracy | train: 0.5383, test: 0 
-generator losses | train: 463, test: 0 | content: 0, color: 0, texture: 0, tv: 0 | psnr: 0, ssim: 0
-
-step 2100, iphone | discriminator accuracy | train: 0.5033, test: 0 
-generator losses | train: 443.3, test: 0 | content: 0, color: 0, texture: 0, tv: 0 | psnr: 0, ssim: 0
-
-step 2200, iphone | discriminator accuracy | train: 0.5213, test: 0 
-generator losses | train: 434, test: 0 | content: 0, color: 0, texture: 0, tv: 0 | psnr: 0, ssim: 0
-
-step 2300, iphone | discriminator accuracy | train: 0.5223, test: 0 
-generator losses | train: 457.7, test: 0 | content: 0, color: 0, texture: 0, tv: 0 | psnr: 0, ssim: 0
-
-step 2400, iphone | discriminator accuracy | train: 0.5087, test: 0 
-generator losses | train: 440.4, test: 0 | content: 0, color: 0, texture: 0, tv: 0 | psnr: 0, ssim: 0
-
-step 2500, iphone | discriminator accuracy | train: 0.529, test: 0 
-generator losses | train: 444, test: 0 | content: 0, color: 0, texture: 0, tv: 0 | psnr: 0, ssim: 0
-
-step 2600, iphone | discriminator accuracy | train: 0.5157, test: 0 
-generator losses | train: 473.6, test: 0 | content: 0, color: 0, texture: 0, tv: 0 | psnr: 0, ssim: 0
-
-step 2700, iphone | discriminator accuracy | train: 0.525, test: 0 
-generator losses | train: 436.6, test: 0 | content: 0, color: 0, texture: 0, tv: 0 | psnr: 0, ssim: 0
-
-step 2800, iphone | discriminator accuracy | train: 0.5403, test: 0 
-generator losses | train: 461.7, test: 0 | content: 0, color: 0, texture: 0, tv: 0 | psnr: 0, ssim: 0
-
-step 2900, iphone | discriminator accuracy | train: 0.5253, test: 0 
-generator losses | train: 451.9, test: 0 | content: 0, color: 0, texture: 0, tv: 0 | psnr: 0, ssim: 0
-
-step 3000, iphone | discriminator accuracy | train: 0.546, test: 0 
-generator losses | train: 434.8, test: 0 | content: 0, color: 0, texture: 0, tv: 0 | psnr: 0, ssim: 0
-
-step 3100, iphone | discriminator accuracy | train: 0.5167, test: 0 
-generator losses | train: 450.7, test: 0 | content: 0, color: 0, texture: 0, tv: 0 | psnr: 0, ssim: 0
-
-step 3200, iphone | discriminator accuracy | train: 0.538, test: 0 
-generator losses | train: 448.4, test: 0 | content: 0, color: 0, texture: 0, tv: 0 | psnr: 0, ssim: 0
-
-step 3300, iphone | discriminator accuracy | train: 0.5353, test: 0 
-generator losses | train: 450.7, test: 0 | content: 0, color: 0, texture: 0, tv: 0 | psnr: 0, ssim: 0
-
-step 3400, iphone | discriminator accuracy | train: 0.5597, test: 0 
-generator losses | train: 443.7, test: 0 | content: 0, color: 0, texture: 0, tv: 0 | psnr: 0, ssim: 0
-
-step 3500, iphone | discriminator accuracy | train: 0.5327, test: 0 
-generator losses | train: 452.8, test: 0 | content: 0, color: 0, texture: 0, tv: 0 | psnr: 0, ssim: 0
-
-step 3600, iphone | discriminator accuracy | train: 0.534, test: 0 
-generator losses | train: 450.1, test: 0 | content: 0, color: 0, texture: 0, tv: 0 | psnr: 0, ssim: 0
-
-step 3700, iphone | discriminator accuracy | train: 0.515, test: 0 
-generator losses | train: 442.7, test: 0 | content: 0, color: 0, texture: 0, tv: 0 | psnr: 0, ssim: 0
-
-step 3800, iphone | discriminator accuracy | train: 0.521, test: 0 
-generator losses | train: 445, test: 0 | content: 0, color: 0, texture: 0, tv: 0 | psnr: 0, ssim: 0
-
-step 3900, iphone | discriminator accuracy | train: 0.5263, test: 0 
-generator losses | train: 435.2, test: 0 | content: 0, color: 0, texture: 0, tv: 0 | psnr: 0, ssim: 0
-
-step 4000, iphone | discriminator accuracy | train: 0.518, test: 0 
-generator losses | train: 461.5, test: 0 | content: 0, color: 0, texture: 0, tv: 0 | psnr: 0, ssim: 0
-
-step 4100, iphone | discriminator accuracy | train: 0.5267, test: 0 
-generator losses | train: 473.5, test: 0 | content: 0, color: 0, texture: 0, tv: 0 | psnr: 0, ssim: 0
-
-step 4200, iphone | discriminator accuracy | train: 0.5357, test: 0 
-generator losses | train: 448.6, test: 0 | content: 0, color: 0, texture: 0, tv: 0 | psnr: 0, ssim: 0
-
-step 4300, iphone | discriminator accuracy | train: 0.5367, test: 0 
-generator losses | train: 480.8, test: 0 | content: 0, color: 0, texture: 0, tv: 0 | psnr: 0, ssim: 0
-
-step 4400, iphone | discriminator accuracy | train: 0.53, test: 0 
-generator losses | train: 466.9, test: 0 | content: 0, color: 0, texture: 0, tv: 0 | psnr: 0, ssim: 0
-
-step 4500, iphone | discriminator accuracy | train: 0.5507, test: 0 
-generator losses | train: 461.9, test: 0 | content: 0, color: 0, texture: 0, tv: 0 | psnr: 0, ssim: 0
-
-step 4600, iphone | discriminator accuracy | train: 0.5213, test: 0 
-generator losses | train: 450.7, test: 0 | content: 0, color: 0, texture: 0, tv: 0 | psnr: 0, ssim: 0
-
-step 4700, iphone | discriminator accuracy | train: 0.5443, test: 0 
-generator losses | train: 457, test: 0 | content: 0, color: 0, texture: 0, tv: 0 | psnr: 0, ssim: 0
-
-step 4800, iphone | discriminator accuracy | train: 0.517, test: 0 
-generator losses | train: 450.7, test: 0 | content: 0, color: 0, texture: 0, tv: 0 | psnr: 0, ssim: 0
-
-step 4900, iphone | discriminator accuracy | train: 0.524, test: 0 
-generator losses | train: 468.1, test: 0 | content: 0, color: 0, texture: 0, tv: 0 | psnr: 0, ssim: 0
-
-step 5000, iphone | discriminator accuracy | train: 0.533, test: 0 
-generator losses | train: 447.9, test: 0 | content: 0, color: 0, texture: 0, tv: 0 | psnr: 0, ssim: 0
-
-step 5100, iphone | discriminator accuracy | train: 0.548, test: 0 
-generator losses | train: 481.8, test: 0 | content: 0, color: 0, texture: 0, tv: 0 | psnr: 0, ssim: 0
-
-step 5200, iphone | discriminator accuracy | train: 0.4977, test: 0 
-generator losses | train: 420.3, test: 0 | content: 0, color: 0, texture: 0, tv: 0 | psnr: 0, ssim: 0
-
-step 5300, iphone | discriminator accuracy | train: 0.5163, test: 0 
-generator losses | train: 429.6, test: 0 | content: 0, color: 0, texture: 0, tv: 0 | psnr: 0, ssim: 0
-
-step 0, iphone | discriminator accuracy | train: 0.256, test: 0 
-generator losses | train: 245.6, test: 0 | content: 0, color: 0, texture: 0, tv: 0 | psnr: 0, ssim: 0
-
-step 100, iphone | discriminator accuracy | train: 0.5343, test: 0 
-generator losses | train: 483.4, test: 0 | content: 0, color: 0, texture: 0, tv: 0 | psnr: 0, ssim: 0
-
-step 200, iphone | discriminator accuracy | train: 0.542, test: 0 
-generator losses | train: 463.4, test: 0 | content: 0, color: 0, texture: 0, tv: 0 | psnr: 0, ssim: 0
-
-step 300, iphone | discriminator accuracy | train: 0.5293, test: 0 
-generator losses | train: 456.6, test: 0 | content: 0, color: 0, texture: 0, tv: 0 | psnr: 0, ssim: 0
-
-step 400, iphone | discriminator accuracy | train: 0.5327, test: 0 
-generator losses | train: 469.2, test: 0 | content: 0, color: 0, texture: 0, tv: 0 | psnr: 0, ssim: 0
-
-step 500, iphone | discriminator accuracy | train: 0.5083, test: 0 
-generator losses | train: 427.4, test: 0 | content: 0, color: 0, texture: 0, tv: 0 | psnr: 0, ssim: 0
-
-step 600, iphone | discriminator accuracy | train: 0.537, test: 0 
-generator losses | train: 447.8, test: 0 | content: 0, color: 0, texture: 0, tv: 0 | psnr: 0, ssim: 0
-
-step 700, iphone | discriminator accuracy | train: 0.5457, test: 0 
-generator losses | train: 471.9, test: 0 | content: 0, color: 0, texture: 0, tv: 0 | psnr: 0, ssim: 0
-
-step 800, iphone | discriminator accuracy | train: 0.5227, test: 0 
-generator losses | train: 426.3, test: 0 | content: 0, color: 0, texture: 0, tv: 0 | psnr: 0, ssim: 0
-
-step 900, iphone | discriminator accuracy | train: 0.528, test: 0 
-generator losses | train: 433.8, test: 0 | content: 0, color: 0, texture: 0, tv: 0 | psnr: 0, ssim: 0
-
-step 1000, iphone | discriminator accuracy | train: 0.527, test: 0 
-generator losses | train: 447.9, test: 0 | content: 0, color: 0, texture: 0, tv: 0 | psnr: 0, ssim: 0
-
-step 1100, iphone | discriminator accuracy | train: 0.5197, test: 0 
-generator losses | train: 448.3, test: 0 | content: 0, color: 0, texture: 0, tv: 0 | psnr: 0, ssim: 0
-
-step 1200, iphone | discriminator accuracy | train: 0.534, test: 0 
-generator losses | train: 452.3, test: 0 | content: 0, color: 0, texture: 0, tv: 0 | psnr: 0, ssim: 0
-
-step 1300, iphone | discriminator accuracy | train: 0.4977, test: 0 
-generator losses | train: 420.3, test: 0 | content: 0, color: 0, texture: 0, tv: 0 | psnr: 0, ssim: 0
-
-step 1400, iphone | discriminator accuracy | train: 0.5147, test: 0 
-generator losses | train: 429.7, test: 0 | content: 0, color: 0, texture: 0, tv: 0 | psnr: 0, ssim: 0
-
-step 1500, iphone | discriminator accuracy | train: 0.535, test: 0 
-generator losses | train: 415.6, test: 0 | content: 0, color: 0, texture: 0, tv: 0 | psnr: 0, ssim: 0
-
-step 1600, iphone | discriminator accuracy | train: 0.5143, test: 0 
-generator losses | train: 441.6, test: 0 | content: 0, color: 0, texture: 0, tv: 0 | psnr: 0, ssim: 0
-
-step 1700, iphone | discriminator accuracy | train: 0.5473, test: 0 
-generator losses | train: 458.3, test: 0 | content: 0, color: 0, texture: 0, tv: 0 | psnr: 0, ssim: 0
+step 1700, iphone | discriminator accuracy | train: 0.5047, test: 0 
+generator losses | train: 9.637, test: 0 | content: 0, color: 0, texture: 0, tv: 0 | psnr: 0, ssim: 0
 
 step 1800, iphone | discriminator accuracy | train: 0.5213, test: 0 
-generator losses | train: 468.4, test: 0 | content: 0, color: 0, texture: 0, tv: 0 | psnr: 0, ssim: 0
+generator losses | train: -6.994, test: 0 | content: 0, color: 0, texture: 0, tv: 0 | psnr: 0, ssim: 0
 
-step 1900, iphone | discriminator accuracy | train: 0.529, test: 0 
-generator losses | train: 437.9, test: 0 | content: 0, color: 0, texture: 0, tv: 0 | psnr: 0, ssim: 0
+step 1900, iphone | discriminator accuracy | train: 0.536, test: 0 
+generator losses | train: 4.401, test: 0 | content: 0, color: 0, texture: 0, tv: 0 | psnr: 0, ssim: 0
 
-step 2000, iphone | discriminator accuracy | train: 0.5057, test: 0 
-generator losses | train: 447.5, test: 0 | content: 0, color: 0, texture: 0, tv: 0 | psnr: 0, ssim: 0
+step 2000, iphone | discriminator accuracy | train: 0.5167, test: 0 
+generator losses | train: 15.88, test: 0 | content: 0, color: 0, texture: 0, tv: 0 | psnr: 0, ssim: 0
 
-step 2100, iphone | discriminator accuracy | train: 0.551, test: 0 
-generator losses | train: 468.2, test: 0 | content: 0, color: 0, texture: 0, tv: 0 | psnr: 0, ssim: 0
+step 2100, iphone | discriminator accuracy | train: 0.5147, test: 0 
+generator losses | train: -7.182, test: 0 | content: 0, color: 0, texture: 0, tv: 0 | psnr: 0, ssim: 0
 
-step 2200, iphone | discriminator accuracy | train: 0.5437, test: 0 
-generator losses | train: 445.9, test: 0 | content: 0, color: 0, texture: 0, tv: 0 | psnr: 0, ssim: 0
+step 2200, iphone | discriminator accuracy | train: 0.5217, test: 0 
+generator losses | train: 3.719, test: 0 | content: 0, color: 0, texture: 0, tv: 0 | psnr: 0, ssim: 0
 
-step 2300, iphone | discriminator accuracy | train: 0.5237, test: 0 
-generator losses | train: 446.9, test: 0 | content: 0, color: 0, texture: 0, tv: 0 | psnr: 0, ssim: 0
+step 2300, iphone | discriminator accuracy | train: 0.537, test: 0 
+generator losses | train: 25.57, test: 0 | content: 0, color: 0, texture: 0, tv: 0 | psnr: 0, ssim: 0
 
-step 2400, iphone | discriminator accuracy | train: 0.543, test: 0 
-generator losses | train: 431.2, test: 0 | content: 0, color: 0, texture: 0, tv: 0 | psnr: 0, ssim: 0
+step 2400, iphone | discriminator accuracy | train: 0.5203, test: 0 
+generator losses | train: -4.319, test: 0 | content: 0, color: 0, texture: 0, tv: 0 | psnr: 0, ssim: 0
 
-step 2500, iphone | discriminator accuracy | train: 0.565, test: 0 
-generator losses | train: 481, test: 0 | content: 0, color: 0, texture: 0, tv: 0 | psnr: 0, ssim: 0
+step 2500, iphone | discriminator accuracy | train: 0.558, test: 0 
+generator losses | train: 8.515, test: 0 | content: 0, color: 0, texture: 0, tv: 0 | psnr: 0, ssim: 0
 
-step 2600, iphone | discriminator accuracy | train: 0.531, test: 0 
-generator losses | train: 449.1, test: 0 | content: 0, color: 0, texture: 0, tv: 0 | psnr: 0, ssim: 0
+step 2600, iphone | discriminator accuracy | train: 0.5213, test: 0 
+generator losses | train: -4.019, test: 0 | content: 0, color: 0, texture: 0, tv: 0 | psnr: 0, ssim: 0
 
-step 2700, iphone | discriminator accuracy | train: 0.5373, test: 0 
-generator losses | train: 438.4, test: 0 | content: 0, color: 0, texture: 0, tv: 0 | psnr: 0, ssim: 0
+step 2700, iphone | discriminator accuracy | train: 0.532, test: 0 
+generator losses | train: -20.05, test: 0 | content: 0, color: 0, texture: 0, tv: 0 | psnr: 0, ssim: 0
 
-step 2800, iphone | discriminator accuracy | train: 0.5353, test: 0 
-generator losses | train: 460.7, test: 0 | content: 0, color: 0, texture: 0, tv: 0 | psnr: 0, ssim: 0
+step 2800, iphone | discriminator accuracy | train: 0.5307, test: 0 
+generator losses | train: -0.9974, test: 0 | content: 0, color: 0, texture: 0, tv: 0 | psnr: 0, ssim: 0
+
+step 2900, iphone | discriminator accuracy | train: 0.5123, test: 0 
+generator losses | train: -13.69, test: 0 | content: 0, color: 0, texture: 0, tv: 0 | psnr: 0, ssim: 0
+
+step 3000, iphone | discriminator accuracy | train: 0.5447, test: 0 
+generator losses | train: -15.85, test: 0 | content: 0, color: 0, texture: 0, tv: 0 | psnr: 0, ssim: 0
+
+step 3100, iphone | discriminator accuracy | train: 0.5313, test: 0 
+generator losses | train: 17.17, test: 0 | content: 0, color: 0, texture: 0, tv: 0 | psnr: 0, ssim: 0
+
+step 3200, iphone | discriminator accuracy | train: 0.522, test: 0 
+generator losses | train: -31.77, test: 0 | content: 0, color: 0, texture: 0, tv: 0 | psnr: 0, ssim: 0
+
+step 3300, iphone | discriminator accuracy | train: 0.5127, test: 0 
+generator losses | train: -30.5, test: 0 | content: 0, color: 0, texture: 0, tv: 0 | psnr: 0, ssim: 0
+
+step 3400, iphone | discriminator accuracy | train: 0.5417, test: 0 
+generator losses | train: 28.97, test: 0 | content: 0, color: 0, texture: 0, tv: 0 | psnr: 0, ssim: 0
+
+step 3500, iphone | discriminator accuracy | train: 0.5033, test: 0 
+generator losses | train: -19.69, test: 0 | content: 0, color: 0, texture: 0, tv: 0 | psnr: 0, ssim: 0
+
+step 3600, iphone | discriminator accuracy | train: 0.5187, test: 0 
+generator losses | train: -33.58, test: 0 | content: 0, color: 0, texture: 0, tv: 0 | psnr: 0, ssim: 0
+
+step 3700, iphone | discriminator accuracy | train: 0.5217, test: 0 
+generator losses | train: -25.97, test: 0 | content: 0, color: 0, texture: 0, tv: 0 | psnr: 0, ssim: 0
+
+step 3800, iphone | discriminator accuracy | train: 0.5383, test: 0 
+generator losses | train: -17.04, test: 0 | content: 0, color: 0, texture: 0, tv: 0 | psnr: 0, ssim: 0
+
+step 3900, iphone | discriminator accuracy | train: 0.5493, test: 0 
+generator losses | train: -6.172, test: 0 | content: 0, color: 0, texture: 0, tv: 0 | psnr: 0, ssim: 0
+
+step 4000, iphone | discriminator accuracy | train: 0.5037, test: 0 
+generator losses | train: 17.29, test: 0 | content: 0, color: 0, texture: 0, tv: 0 | psnr: 0, ssim: 0
+
+step 4100, iphone | discriminator accuracy | train: 0.5287, test: 0 
+generator losses | train: -37.1, test: 0 | content: 0, color: 0, texture: 0, tv: 0 | psnr: 0, ssim: 0
+
+step 4200, iphone | discriminator accuracy | train: 0.5377, test: 0 
+generator losses | train: -0.01604, test: 0 | content: 0, color: 0, texture: 0, tv: 0 | psnr: 0, ssim: 0
+
+step 4300, iphone | discriminator accuracy | train: 0.543, test: 0 
+generator losses | train: -10.48, test: 0 | content: 0, color: 0, texture: 0, tv: 0 | psnr: 0, ssim: 0
+
+step 4400, iphone | discriminator accuracy | train: 0.5117, test: 0 
+generator losses | train: -39.72, test: 0 | content: 0, color: 0, texture: 0, tv: 0 | psnr: 0, ssim: 0
+
+step 4500, iphone | discriminator accuracy | train: 0.5257, test: 0 
+generator losses | train: 8.823, test: 0 | content: 0, color: 0, texture: 0, tv: 0 | psnr: 0, ssim: 0
+
+step 4600, iphone | discriminator accuracy | train: 0.53, test: 0 
+generator losses | train: -13.08, test: 0 | content: 0, color: 0, texture: 0, tv: 0 | psnr: 0, ssim: 0
+
+step 4700, iphone | discriminator accuracy | train: 0.5173, test: 0 
+generator losses | train: -17.28, test: 0 | content: 0, color: 0, texture: 0, tv: 0 | psnr: 0, ssim: 0
+
+step 4800, iphone | discriminator accuracy | train: 0.5447, test: 0 
+generator losses | train: -22.06, test: 0 | content: 0, color: 0, texture: 0, tv: 0 | psnr: 0, ssim: 0
+
+step 4900, iphone | discriminator accuracy | train: 0.529, test: 0 
+generator losses | train: -20.48, test: 0 | content: 0, color: 0, texture: 0, tv: 0 | psnr: 0, ssim: 0
+
+step 5000, iphone | discriminator accuracy | train: 0.5063, test: 0 
+generator losses | train: -2.792, test: 0 | content: 0, color: 0, texture: 0, tv: 0 | psnr: 0, ssim: 0
+
+step 5100, iphone | discriminator accuracy | train: 0.512, test: 0 
+generator losses | train: -20.65, test: 0 | content: 0, color: 0, texture: 0, tv: 0 | psnr: 0, ssim: 0
+
+step 5200, iphone | discriminator accuracy | train: 0.5383, test: 0 
+generator losses | train: 11.28, test: 0 | content: 0, color: 0, texture: 0, tv: 0 | psnr: 0, ssim: 0
+
+step 5300, iphone | discriminator accuracy | train: 0.5287, test: 0 
+generator losses | train: -38.86, test: 0 | content: 0, color: 0, texture: 0, tv: 0 | psnr: 0, ssim: 0
+
+step 0, iphone | discriminator accuracy | train: 0.2547, test: 0 
+generator losses | train: 1.008, test: 0 | content: 0, color: 0, texture: 0, tv: 0 | psnr: 0, ssim: 0
+
+step 100, iphone | discriminator accuracy | train: 0.5367, test: 0 
+generator losses | train: -10.76, test: 0 | content: 0, color: 0, texture: 0, tv: 0 | psnr: 0, ssim: 0
+
+step 200, iphone | discriminator accuracy | train: 0.5327, test: 0 
+generator losses | train: -19.01, test: 0 | content: 0, color: 0, texture: 0, tv: 0 | psnr: 0, ssim: 0
+
+step 300, iphone | discriminator accuracy | train: 0.5077, test: 0 
+generator losses | train: -34.81, test: 0 | content: 0, color: 0, texture: 0, tv: 0 | psnr: 0, ssim: 0
+
+step 400, iphone | discriminator accuracy | train: 0.529, test: 0 
+generator losses | train: -21.33, test: 0 | content: 0, color: 0, texture: 0, tv: 0 | psnr: 0, ssim: 0
+
+step 500, iphone | discriminator accuracy | train: 0.533, test: 0 
+generator losses | train: -17.59, test: 0 | content: 0, color: 0, texture: 0, tv: 0 | psnr: 0, ssim: 0
+
+step 600, iphone | discriminator accuracy | train: 0.526, test: 0 
+generator losses | train: -19.85, test: 0 | content: 0, color: 0, texture: 0, tv: 0 | psnr: 0, ssim: 0
+
+step 700, iphone | discriminator accuracy | train: 0.5197, test: 0 
+generator losses | train: -36.94, test: 0 | content: 0, color: 0, texture: 0, tv: 0 | psnr: 0, ssim: 0
+
+step 800, iphone | discriminator accuracy | train: 0.5317, test: 0 
+generator losses | train: -26.82, test: 0 | content: 0, color: 0, texture: 0, tv: 0 | psnr: 0, ssim: 0
+
+step 900, iphone | discriminator accuracy | train: 0.544, test: 0 
+generator losses | train: -3.901, test: 0 | content: 0, color: 0, texture: 0, tv: 0 | psnr: 0, ssim: 0
+
+step 1000, iphone | discriminator accuracy | train: 0.5497, test: 0 
+generator losses | train: -23.94, test: 0 | content: 0, color: 0, texture: 0, tv: 0 | psnr: 0, ssim: 0
+
+step 1100, iphone | discriminator accuracy | train: 0.5393, test: 0 
+generator losses | train: -16.07, test: 0 | content: 0, color: 0, texture: 0, tv: 0 | psnr: 0, ssim: 0
+
+step 1200, iphone | discriminator accuracy | train: 0.5357, test: 0 
+generator losses | train: 3.008, test: 0 | content: 0, color: 0, texture: 0, tv: 0 | psnr: 0, ssim: 0
+
+step 1300, iphone | discriminator accuracy | train: 0.5557, test: 0 
+generator losses | train: 6.803, test: 0 | content: 0, color: 0, texture: 0, tv: 0 | psnr: 0, ssim: 0
+
+step 1400, iphone | discriminator accuracy | train: 0.5367, test: 0 
+generator losses | train: -39.47, test: 0 | content: 0, color: 0, texture: 0, tv: 0 | psnr: 0, ssim: 0
+
+step 1500, iphone | discriminator accuracy | train: 0.5467, test: 0 
+generator losses | train: -17.98, test: 0 | content: 0, color: 0, texture: 0, tv: 0 | psnr: 0, ssim: 0
+
+step 1600, iphone | discriminator accuracy | train: 0.5297, test: 0 
+generator losses | train: -34.6, test: 0 | content: 0, color: 0, texture: 0, tv: 0 | psnr: 0, ssim: 0
+
+step 1700, iphone | discriminator accuracy | train: 0.5597, test: 0 
+generator losses | train: -6.044, test: 0 | content: 0, color: 0, texture: 0, tv: 0 | psnr: 0, ssim: 0
+
+step 1800, iphone | discriminator accuracy | train: 0.5357, test: 0 
+generator losses | train: -43.13, test: 0 | content: 0, color: 0, texture: 0, tv: 0 | psnr: 0, ssim: 0
+
+step 1900, iphone | discriminator accuracy | train: 0.5507, test: 0 
+generator losses | train: -30.56, test: 0 | content: 0, color: 0, texture: 0, tv: 0 | psnr: 0, ssim: 0
+
+step 2000, iphone | discriminator accuracy | train: 0.5197, test: 0 
+generator losses | train: -19.52, test: 0 | content: 0, color: 0, texture: 0, tv: 0 | psnr: 0, ssim: 0
+
+step 2100, iphone | discriminator accuracy | train: 0.5397, test: 0 
+generator losses | train: -29.41, test: 0 | content: 0, color: 0, texture: 0, tv: 0 | psnr: 0, ssim: 0
+
+step 2200, iphone | discriminator accuracy | train: 0.5117, test: 0 
+generator losses | train: -20.61, test: 0 | content: 0, color: 0, texture: 0, tv: 0 | psnr: 0, ssim: 0
+
+step 2300, iphone | discriminator accuracy | train: 0.5417, test: 0 
+generator losses | train: -5.68, test: 0 | content: 0, color: 0, texture: 0, tv: 0 | psnr: 0, ssim: 0
+
+step 2400, iphone | discriminator accuracy | train: 0.5467, test: 0 
+generator losses | train: -10.9, test: 0 | content: 0, color: 0, texture: 0, tv: 0 | psnr: 0, ssim: 0
+
+step 2500, iphone | discriminator accuracy | train: 0.524, test: 0 
+generator losses | train: -8.773, test: 0 | content: 0, color: 0, texture: 0, tv: 0 | psnr: 0, ssim: 0
+
+step 2600, iphone | discriminator accuracy | train: 0.5397, test: 0 
+generator losses | train: -29.12, test: 0 | content: 0, color: 0, texture: 0, tv: 0 | psnr: 0, ssim: 0
+
+step 2700, iphone | discriminator accuracy | train: 0.5293, test: 0 
+generator losses | train: -26.18, test: 0 | content: 0, color: 0, texture: 0, tv: 0 | psnr: 0, ssim: 0
+
+step 2800, iphone | discriminator accuracy | train: 0.54, test: 0 
+generator losses | train: -36.27, test: 0 | content: 0, color: 0, texture: 0, tv: 0 | psnr: 0, ssim: 0
+
+step 2900, iphone | discriminator accuracy | train: 0.524, test: 0 
+generator losses | train: -37.41, test: 0 | content: 0, color: 0, texture: 0, tv: 0 | psnr: 0, ssim: 0
+
+step 3000, iphone | discriminator accuracy | train: 0.547, test: 0 
+generator losses | train: -38.63, test: 0 | content: 0, color: 0, texture: 0, tv: 0 | psnr: 0, ssim: 0
+
+step 3100, iphone | discriminator accuracy | train: 0.527, test: 0 
+generator losses | train: -14.37, test: 0 | content: 0, color: 0, texture: 0, tv: 0 | psnr: 0, ssim: 0
+
+step 3200, iphone | discriminator accuracy | train: 0.5237, test: 0 
+generator losses | train: -30.08, test: 0 | content: 0, color: 0, texture: 0, tv: 0 | psnr: 0, ssim: 0
+
+step 3300, iphone | discriminator accuracy | train: 0.5283, test: 0 
+generator losses | train: -19.7, test: 0 | content: 0, color: 0, texture: 0, tv: 0 | psnr: 0, ssim: 0
+
+step 3400, iphone | discriminator accuracy | train: 0.5307, test: 0 
+generator losses | train: -43.65, test: 0 | content: 0, color: 0, texture: 0, tv: 0 | psnr: 0, ssim: 0
+
+step 3500, iphone | discriminator accuracy | train: 0.5307, test: 0 
+generator losses | train: -30.58, test: 0 | content: 0, color: 0, texture: 0, tv: 0 | psnr: 0, ssim: 0
+
+step 3600, iphone | discriminator accuracy | train: 0.518, test: 0 
+generator losses | train: -41.42, test: 0 | content: 0, color: 0, texture: 0, tv: 0 | psnr: 0, ssim: 0
+
+step 3700, iphone | discriminator accuracy | train: 0.5367, test: 0 
+generator losses | train: -29.57, test: 0 | content: 0, color: 0, texture: 0, tv: 0 | psnr: 0, ssim: 0
+
+step 3800, iphone | discriminator accuracy | train: 0.528, test: 0 
+generator losses | train: -48.43, test: 0 | content: 0, color: 0, texture: 0, tv: 0 | psnr: 0, ssim: 0
+
+step 3900, iphone | discriminator accuracy | train: 0.517, test: 0 
+generator losses | train: -22.31, test: 0 | content: 0, color: 0, texture: 0, tv: 0 | psnr: 0, ssim: 0
+
+step 4000, iphone | discriminator accuracy | train: 0.5217, test: 0 
+generator losses | train: -42.15, test: 0 | content: 0, color: 0, texture: 0, tv: 0 | psnr: 0, ssim: 0
+
+step 4100, iphone | discriminator accuracy | train: 0.5357, test: 0 
+generator losses | train: -34.85, test: 0 | content: 0, color: 0, texture: 0, tv: 0 | psnr: 0, ssim: 0
+
+step 4200, iphone | discriminator accuracy | train: 0.533, test: 0 
+generator losses | train: -47.18, test: 0 | content: 0, color: 0, texture: 0, tv: 0 | psnr: 0, ssim: 0
+
+step 4300, iphone | discriminator accuracy | train: 0.533, test: 0 
+generator losses | train: -39.45, test: 0 | content: 0, color: 0, texture: 0, tv: 0 | psnr: 0, ssim: 0
+
+step 4400, iphone | discriminator accuracy | train: 0.541, test: 0 
+generator losses | train: -23.44, test: 0 | content: 0, color: 0, texture: 0, tv: 0 | psnr: 0, ssim: 0
+
+step 4500, iphone | discriminator accuracy | train: 0.5423, test: 0 
+generator losses | train: -28.22, test: 0 | content: 0, color: 0, texture: 0, tv: 0 | psnr: 0, ssim: 0
+
+step 4600, iphone | discriminator accuracy | train: 0.5123, test: 0 
+generator losses | train: -35.5, test: 0 | content: 0, color: 0, texture: 0, tv: 0 | psnr: 0, ssim: 0
+
+step 4700, iphone | discriminator accuracy | train: 0.5227, test: 0 
+generator losses | train: -39.63, test: 0 | content: 0, color: 0, texture: 0, tv: 0 | psnr: 0, ssim: 0
+
+step 4800, iphone | discriminator accuracy | train: 0.5327, test: 0 
+generator losses | train: -36.91, test: 0 | content: 0, color: 0, texture: 0, tv: 0 | psnr: 0, ssim: 0
+
+step 4900, iphone | discriminator accuracy | train: 0.5487, test: 0 
+generator losses | train: -26.31, test: 0 | content: 0, color: 0, texture: 0, tv: 0 | psnr: 0, ssim: 0
+
+step 5000, iphone | discriminator accuracy | train: 0.5157, test: 0 
+generator losses | train: -68.65, test: 0 | content: 0, color: 0, texture: 0, tv: 0 | psnr: 0, ssim: 0
+
+step 5100, iphone | discriminator accuracy | train: 0.521, test: 0 
+generator losses | train: -56.2, test: 0 | content: 0, color: 0, texture: 0, tv: 0 | psnr: 0, ssim: 0
+
+step 5200, iphone | discriminator accuracy | train: 0.5307, test: 0 
+generator losses | train: -50.42, test: 0 | content: 0, color: 0, texture: 0, tv: 0 | psnr: 0, ssim: 0
+
+step 5300, iphone | discriminator accuracy | train: 0.5107, test: 0 
+generator losses | train: -28.24, test: 0 | content: 0, color: 0, texture: 0, tv: 0 | psnr: 0, ssim: 0
+
+step 0, iphone | discriminator accuracy | train: 0.2697, test: 0 
+generator losses | train: -16.24, test: 0 | content: 0, color: 0, texture: 0, tv: 0 | psnr: 0, ssim: 0
+
+step 100, iphone | discriminator accuracy | train: 0.5347, test: 0 
+generator losses | train: -30.97, test: 0 | content: 0, color: 0, texture: 0, tv: 0 | psnr: 0, ssim: 0
+
+step 200, iphone | discriminator accuracy | train: 0.5003, test: 0 
+generator losses | train: -47.68, test: 0 | content: 0, color: 0, texture: 0, tv: 0 | psnr: 0, ssim: 0
+
+step 300, iphone | discriminator accuracy | train: 0.5137, test: 0 
+generator losses | train: -38.53, test: 0 | content: 0, color: 0, texture: 0, tv: 0 | psnr: 0, ssim: 0
+
+step 400, iphone | discriminator accuracy | train: 0.5387, test: 0 
+generator losses | train: -15.54, test: 0 | content: 0, color: 0, texture: 0, tv: 0 | psnr: 0, ssim: 0
+
+step 500, iphone | discriminator accuracy | train: 0.5323, test: 0 
+generator losses | train: -38.06, test: 0 | content: 0, color: 0, texture: 0, tv: 0 | psnr: 0, ssim: 0
+
+step 600, iphone | discriminator accuracy | train: 0.5123, test: 0 
+generator losses | train: -53.15, test: 0 | content: 0, color: 0, texture: 0, tv: 0 | psnr: 0, ssim: 0
+
+step 700, iphone | discriminator accuracy | train: 0.514, test: 0 
+generator losses | train: -47.95, test: 0 | content: 0, color: 0, texture: 0, tv: 0 | psnr: 0, ssim: 0
+
+step 800, iphone | discriminator accuracy | train: 0.514, test: 0 
+generator losses | train: -62.26, test: 0 | content: 0, color: 0, texture: 0, tv: 0 | psnr: 0, ssim: 0
+
+step 900, iphone | discriminator accuracy | train: 0.53, test: 0 
+generator losses | train: -39.21, test: 0 | content: 0, color: 0, texture: 0, tv: 0 | psnr: 0, ssim: 0
+
+step 1000, iphone | discriminator accuracy | train: 0.5043, test: 0 
+generator losses | train: -52.7, test: 0 | content: 0, color: 0, texture: 0, tv: 0 | psnr: 0, ssim: 0
+
+step 1100, iphone | discriminator accuracy | train: 0.5283, test: 0 
+generator losses | train: -17.94, test: 0 | content: 0, color: 0, texture: 0, tv: 0 | psnr: 0, ssim: 0
+
+step 1200, iphone | discriminator accuracy | train: 0.5203, test: 0 
+generator losses | train: -56.19, test: 0 | content: 0, color: 0, texture: 0, tv: 0 | psnr: 0, ssim: 0
+
+step 1300, iphone | discriminator accuracy | train: 0.5347, test: 0 
+generator losses | train: -39.56, test: 0 | content: 0, color: 0, texture: 0, tv: 0 | psnr: 0, ssim: 0
+
+step 1400, iphone | discriminator accuracy | train: 0.5143, test: 0 
+generator losses | train: -42.22, test: 0 | content: 0, color: 0, texture: 0, tv: 0 | psnr: 0, ssim: 0
+
+step 1500, iphone | discriminator accuracy | train: 0.5343, test: 0 
+generator losses | train: -38.38, test: 0 | content: 0, color: 0, texture: 0, tv: 0 | psnr: 0, ssim: 0
+
+step 1600, iphone | discriminator accuracy | train: 0.504, test: 0 
+generator losses | train: -60.91, test: 0 | content: 0, color: 0, texture: 0, tv: 0 | psnr: 0, ssim: 0
+
+step 1700, iphone | discriminator accuracy | train: 0.5387, test: 0 
+generator losses | train: -46.27, test: 0 | content: 0, color: 0, texture: 0, tv: 0 | psnr: 0, ssim: 0
+
+step 1800, iphone | discriminator accuracy | train: 0.5207, test: 0 
+generator losses | train: -27.28, test: 0 | content: 0, color: 0, texture: 0, tv: 0 | psnr: 0, ssim: 0
+
+step 1900, iphone | discriminator accuracy | train: 0.5253, test: 0 
+generator losses | train: -48.51, test: 0 | content: 0, color: 0, texture: 0, tv: 0 | psnr: 0, ssim: 0
+
+step 2000, iphone | discriminator accuracy | train: 0.5087, test: 0 
+generator losses | train: -50.58, test: 0 | content: 0, color: 0, texture: 0, tv: 0 | psnr: 0, ssim: 0
+
+step 2100, iphone | discriminator accuracy | train: 0.5623, test: 0 
+generator losses | train: -27.84, test: 0 | content: 0, color: 0, texture: 0, tv: 0 | psnr: 0, ssim: 0
+
+step 2200, iphone | discriminator accuracy | train: 0.518, test: 0 
+generator losses | train: -45.14, test: 0 | content: 0, color: 0, texture: 0, tv: 0 | psnr: 0, ssim: 0
+
+step 2300, iphone | discriminator accuracy | train: 0.5217, test: 0 
+generator losses | train: -67.15, test: 0 | content: 0, color: 0, texture: 0, tv: 0 | psnr: 0, ssim: 0
+
+step 2400, iphone | discriminator accuracy | train: 0.5203, test: 0 
+generator losses | train: -63.43, test: 0 | content: 0, color: 0, texture: 0, tv: 0 | psnr: 0, ssim: 0
+
+step 2500, iphone | discriminator accuracy | train: 0.5023, test: 0 
+generator losses | train: -54.94, test: 0 | content: 0, color: 0, texture: 0, tv: 0 | psnr: 0, ssim: 0
+
+step 2600, iphone | discriminator accuracy | train: 0.5083, test: 0 
+generator losses | train: -59.13, test: 0 | content: 0, color: 0, texture: 0, tv: 0 | psnr: 0, ssim: 0
+
+step 2700, iphone | discriminator accuracy | train: 0.5127, test: 0 
+generator losses | train: -55.06, test: 0 | content: 0, color: 0, texture: 0, tv: 0 | psnr: 0, ssim: 0
+
+step 2800, iphone | discriminator accuracy | train: 0.53, test: 0 
+generator losses | train: -51.9, test: 0 | content: 0, color: 0, texture: 0, tv: 0 | psnr: 0, ssim: 0
+
+step 2900, iphone | discriminator accuracy | train: 0.538, test: 0 
+generator losses | train: -28.56, test: 0 | content: 0, color: 0, texture: 0, tv: 0 | psnr: 0, ssim: 0
+
+step 3000, iphone | discriminator accuracy | train: 0.5163, test: 0 
+generator losses | train: -41.22, test: 0 | content: 0, color: 0, texture: 0, tv: 0 | psnr: 0, ssim: 0
+
+step 3100, iphone | discriminator accuracy | train: 0.5093, test: 0 
+generator losses | train: -53.37, test: 0 | content: 0, color: 0, texture: 0, tv: 0 | psnr: 0, ssim: 0
+
+step 3200, iphone | discriminator accuracy | train: 0.5047, test: 0 
+generator losses | train: -39.98, test: 0 | content: 0, color: 0, texture: 0, tv: 0 | psnr: 0, ssim: 0
+
+step 3300, iphone | discriminator accuracy | train: 0.4933, test: 0 
+generator losses | train: -57.26, test: 0 | content: 0, color: 0, texture: 0, tv: 0 | psnr: 0, ssim: 0
+
+step 3400, iphone | discriminator accuracy | train: 0.513, test: 0 
+generator losses | train: -58.84, test: 0 | content: 0, color: 0, texture: 0, tv: 0 | psnr: 0, ssim: 0
+
+step 3500, iphone | discriminator accuracy | train: 0.533, test: 0 
+generator losses | train: -66.84, test: 0 | content: 0, color: 0, texture: 0, tv: 0 | psnr: 0, ssim: 0
+
+step 3600, iphone | discriminator accuracy | train: 0.5083, test: 0 
+generator losses | train: -56.48, test: 0 | content: 0, color: 0, texture: 0, tv: 0 | psnr: 0, ssim: 0
+
+step 3700, iphone | discriminator accuracy | train: 0.5137, test: 0 
+generator losses | train: -46.21, test: 0 | content: 0, color: 0, texture: 0, tv: 0 | psnr: 0, ssim: 0
+
+step 3800, iphone | discriminator accuracy | train: 0.519, test: 0 
+generator losses | train: -66.29, test: 0 | content: 0, color: 0, texture: 0, tv: 0 | psnr: 0, ssim: 0
+
+step 3900, iphone | discriminator accuracy | train: 0.524, test: 0 
+generator losses | train: -45.12, test: 0 | content: 0, color: 0, texture: 0, tv: 0 | psnr: 0, ssim: 0
+
+step 4000, iphone | discriminator accuracy | train: 0.515, test: 0 
+generator losses | train: -57.78, test: 0 | content: 0, color: 0, texture: 0, tv: 0 | psnr: 0, ssim: 0
+
+step 4100, iphone | discriminator accuracy | train: 0.5247, test: 0 
+generator losses | train: -50.91, test: 0 | content: 0, color: 0, texture: 0, tv: 0 | psnr: 0, ssim: 0
+
+step 4200, iphone | discriminator accuracy | train: 0.5303, test: 0 
+generator losses | train: -40.49, test: 0 | content: 0, color: 0, texture: 0, tv: 0 | psnr: 0, ssim: 0
+
+step 4300, iphone | discriminator accuracy | train: 0.5317, test: 0 
+generator losses | train: -27.74, test: 0 | content: 0, color: 0, texture: 0, tv: 0 | psnr: 0, ssim: 0
+
+step 4400, iphone | discriminator accuracy | train: 0.533, test: 0 
+generator losses | train: -64.36, test: 0 | content: 0, color: 0, texture: 0, tv: 0 | psnr: 0, ssim: 0
+
+step 4500, iphone | discriminator accuracy | train: 0.5117, test: 0 
+generator losses | train: -63.06, test: 0 | content: 0, color: 0, texture: 0, tv: 0 | psnr: 0, ssim: 0
+
+step 4600, iphone | discriminator accuracy | train: 0.5093, test: 0 
+generator losses | train: -68.62, test: 0 | content: 0, color: 0, texture: 0, tv: 0 | psnr: 0, ssim: 0
+
+step 4700, iphone | discriminator accuracy | train: 0.506, test: 0 
+generator losses | train: -49.65, test: 0 | content: 0, color: 0, texture: 0, tv: 0 | psnr: 0, ssim: 0
+
+step 4800, iphone | discriminator accuracy | train: 0.509, test: 0 
+generator losses | train: -60.2, test: 0 | content: 0, color: 0, texture: 0, tv: 0 | psnr: 0, ssim: 0
+
+step 4900, iphone | discriminator accuracy | train: 0.5073, test: 0 
+generator losses | train: -61.65, test: 0 | content: 0, color: 0, texture: 0, tv: 0 | psnr: 0, ssim: 0
+
+step 5000, iphone | discriminator accuracy | train: 0.523, test: 0 
+generator losses | train: -37.06, test: 0 | content: 0, color: 0, texture: 0, tv: 0 | psnr: 0, ssim: 0
+
+step 5100, iphone | discriminator accuracy | train: 0.5333, test: 0 
+generator losses | train: -40.81, test: 0 | content: 0, color: 0, texture: 0, tv: 0 | psnr: 0, ssim: 0
+
+step 5200, iphone | discriminator accuracy | train: 0.508, test: 0 
+generator losses | train: -58.76, test: 0 | content: 0, color: 0, texture: 0, tv: 0 | psnr: 0, ssim: 0
+
+step 5300, iphone | discriminator accuracy | train: 0.5203, test: 0 
+generator losses | train: -45.12, test: 0 | content: 0, color: 0, texture: 0, tv: 0 | psnr: 0, ssim: 0
 

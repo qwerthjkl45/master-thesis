@@ -1,4 +1,4 @@
-# need ot download imagenet-vgg-verydeep-19.mat to vgg_pretrained/
+need to download imagenet-vgg-verydeep-19.mat to vgg_pretrained/
 
 train model:
 1. run run.sh: to start training the model with Unet architecture generator

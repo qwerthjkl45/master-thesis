@@ -8,7 +8,7 @@ Directories:
 
 
 
-train model:
+Training:
 
 1. run_sid_sa.sh: for training the model with the proposed method
 2. train_sid_sa.py: train the model
@@ -20,7 +20,7 @@ train model:
 run.sh: for training the learning-to-see-in-the-dark model
 train.py: train the model
 
-Test model:
+Testing:
 
 1. Test_sid_sa.py: test the proposed model
 2. Test_sid.py: test learning-to-see-in-the-dark model

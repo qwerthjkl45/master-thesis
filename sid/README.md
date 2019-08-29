@@ -1,6 +1,13 @@
 see-in-the-dark
 Learning-to-see-in-the-dark
 
+Directories:
+1. vgg_pretrained: need to download imagenet-vgg-verydeep-19.mat to vgg_pretrained/
+2. disc: the pretrained discriminator model
+3. sid_w_sa: the folder to store the proposed model
+
+
+
 train model:
 
 1. run_sid_sa.sh: for training the model with the proposed method

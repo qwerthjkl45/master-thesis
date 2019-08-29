@@ -1,4 +1,6 @@
-need to download imagenet-vgg-verydeep-19.mat to vgg_pretrained/
+Directories:
+1. vgg_pretrained: need to download imagenet-vgg-verydeep-19.mat to vgg_pretrained/
+2. models: the folder to store the proposed model
 
 train model:
 1. run run.sh: to start training the model with Unet architecture generator

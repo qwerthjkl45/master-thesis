@@ -1,4 +1,4 @@
-# master-thesis
+# master-thesis: U-Net GAN for Image Enhancement
 
 ## Goal: 
   - Use an end-to-end learned based method to do the image enhancement task: **image quality enhancement, extreme low-light image enhancement task**

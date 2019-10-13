@@ -7,8 +7,8 @@
 ## Method: 
  - Use U-Net GAN as the backbone
  - To further remove artifacts, our proposed model include two components to extract the global information(histogram, brightness, scene categories, etc.) in the images
-  - Self attention modules
-  - Global feature vector
+    - Self attention modules
+    - Global feature vector
 ## Result:
   - In the task of image quality enhancement:
     1. In term of PSNR, the proposed model performs better compared to the baseline DPED

@@ -14,9 +14,12 @@
     1. In term of PSNR, the proposed model performs better compared to the baseline DPED
     2. Enhanced images in the proposed model have less artifacts and noise
     3. Example image in the DPED dataset:
+      ![dped_github](https://user-images.githubusercontent.com/17170163/66723837-52f92500-ee1e-11e9-8391-df7bad763e6e.png)
   - In the task of extreme low-light image enhancement:
     1. In qualitative evaluation, the proposed model generated images with more texture details and less artifacts
     2. Example image in the SID dataset:
+      ![sid_github](https://user-images.githubusercontent.com/17170163/66723853-889e0e00-ee1e-11e9-93e5-6735989273bf.png)
+
       
 ## Defense Slides:  
   https://docs.google.com/presentation/d/1lXiYRm-Tf6IlyN0lCGF2MXJr4gIzHSIpvdx-YEA392c/edit?usp=sharing

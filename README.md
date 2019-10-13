@@ -6,7 +6,7 @@
   
 ## Method: 
  - Use U-Net GAN as the backbone
- - To further remove artifacts, our proposed model include two components to extract the global information(histogram, brightness, scene categories, etc.) in the images
+ - To further remove artifacts, our proposed model include **two components to extract the global information**(histogram, brightness, scene categories, etc.) in the images
     - Self attention modules
     - Global feature vector
 ## Result:
